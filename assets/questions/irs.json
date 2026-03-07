@@ -1,0 +1,621 @@
+{
+  "subject": "IRS",
+  "questions": [
+    {
+      "question": "The first revelation of the Quran was revealed to Prophet Muhammad in:",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "The Cave of Hira",
+        "The Kaabah"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The five pillars of Islam are:",
+      "options": [
+        "Shahadah, Salat, Zakat, Sawm, Hajj",
+        "Salat, Zakat, Hajj, Jihad, Shahadah",
+        "Shahadah, Sawm, Zakat, Jihad, Hajj",
+        "Salat, Sawm, Zakat, Charity, Hajj"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "The Shahadah is the declaration that:",
+      "options": [
+        "Allah is great",
+        "There is no god but Allah and Muhammad is His messenger",
+        "Muslims must pray five times daily",
+        "Fasting is compulsory in Ramadan"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The daily prayers (Salat) in Islam are performed:",
+      "options": [
+        "Three times a day",
+        "Four times a day",
+        "Five times a day",
+        "Seven times a day"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Zakat refers to:",
+      "options": [
+        "Fasting during Ramadan",
+        "The pilgrimage to Mecca",
+        "Obligatory almsgiving to the poor",
+        "The declaration of faith"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Sawm is the Islamic practice of:",
+      "options": [
+        "Prayer",
+        "Fasting, especially during Ramadan",
+        "Pilgrimage",
+        "Charity"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Hajj is the pilgrimage to:",
+      "options": [
+        "Jerusalem",
+        "Madinah",
+        "Mecca",
+        "Baghdad"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The holy book of Islam is called:",
+      "options": [
+        "The Torah",
+        "The Bible",
+        "The Quran",
+        "The Zabur"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Prophet Muhammad was born in:",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Mecca",
+        "Baghdad"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The Hijrah refers to:",
+      "options": [
+        "The death of Prophet Muhammad",
+        "The migration of Prophet Muhammad from Mecca to Madinah",
+        "The first revelation of the Quran",
+        "The conquest of Mecca"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The Kaabah is located in:",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Mecca",
+        "Riyadh"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Wudu is the Islamic practice of:",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Ritual purification before prayer",
+        "Pilgrimage"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The first Caliph after Prophet Muhammad was:",
+      "options": [
+        "Umar ibn al-Khattab",
+        "Uthman ibn Affan",
+        "Ali ibn Abi Talib",
+        "Abu Bakr as-Siddiq"
+      ],
+      "correctIndex": 3,
+      "year": 2020
+    },
+    {
+      "question": "Eid al-Fitr is celebrated at the end of:",
+      "options": [
+        "Hajj",
+        "Ramadan",
+        "Muharram",
+        "Dhul Hijja"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Surah Al-Fatiha is the:",
+      "options": [
+        "Last chapter of the Quran",
+        "Longest chapter of the Quran",
+        "Opening chapter of the Quran",
+        "Chapter about the Day of Judgement"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "In Islam, Shirk means:",
+      "options": [
+        "Associating partners with Allah (polytheism)",
+        "Stealing",
+        "Lying",
+        "Breaking the fast"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "The Islamic month of fasting is:",
+      "options": [
+        "Muharram",
+        "Rajab",
+        "Ramadan",
+        "Dhul Hijja"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Tawhid refers to:",
+      "options": [
+        "The oneness and uniqueness of Allah",
+        "The pilgrimage to Mecca",
+        "The fasting in Ramadan",
+        "The charity tax"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "Which prophet is called Khalilullah (Friend of Allah)?",
+      "options": [
+        "Muhammad",
+        "Isa (Jesus)",
+        "Ibrahim (Abraham)",
+        "Musa (Moses)"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The Night of Power (Laylat al-Qadr) occurs during:",
+      "options": [
+        "The first ten days of Ramadan",
+        "The last ten days of Ramadan",
+        "The first ten days of Dhul Hijja",
+        "The month of Muharram"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Jihad in its broader Islamic meaning refers to:",
+      "options": [
+        "Holy war against non-Muslims only",
+        "Striving in the way of Allah, including spiritual self-improvement",
+        "The conquest of new territories",
+        "Armed struggle only"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "In Islam, the Friday congregational prayer is called:",
+      "options": [
+        "Fajr",
+        "Jumu'ah",
+        "Isha",
+        "Asr"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The Quran was compiled into a single book during the caliphate of:",
+      "options": [
+        "Abu Bakr and completed under Uthman",
+        "Umar ibn al-Khattab",
+        "Ali ibn Abi Talib",
+        "Muawiyah"
+      ],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "Prophet Musa (Moses) received his revelation on:",
+      "options": [
+        "Mount Uhud",
+        "Mount Sinai",
+        "Mount Hira",
+        "Mount Arafat"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The concept of Akhirah in Islam refers to:",
+      "options": [
+        "The world we live in now",
+        "The life after death",
+        "The day of Friday prayer",
+        "The month of Ramadan"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Hadith refers to:",
+      "options": [
+        "The chapters of the Quran",
+        "The recorded sayings, actions, and approvals of Prophet Muhammad",
+        "The Islamic law",
+        "The call to prayer"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The Sunnah refers to:",
+      "options": [
+        "The Quran only",
+        "The practices and way of life of Prophet Muhammad",
+        "Islamic law",
+        "The Friday sermon"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Eid al-Adha commemorates:",
+      "options": [
+        "The end of Ramadan",
+        "Prophet Ibrahim's willingness to sacrifice his son",
+        "The Hijrah",
+        "The birth of Prophet Muhammad"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The call to prayer (Adhan) is made by:",
+      "options": [
+        "The Imam",
+        "The Muezzin",
+        "The Caliph",
+        "The Sultan"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "In Islamic law (Sharia), Halal means:",
+      "options": [
+        "Forbidden",
+        "Permissible",
+        "Obligatory",
+        "Recommended"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The concept of Taqwa in Islam means:",
+      "options": [
+        "Wealth and prosperity",
+        "God-consciousness, piety, and fear of Allah",
+        "Military strength",
+        "Political leadership"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which angel brought revelation to Prophet Muhammad?",
+      "options": [
+        "Mikail",
+        "Israfil",
+        "Jibril (Gabriel)",
+        "Azrael"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "The Islamic calendar is based on:",
+      "options": [
+        "The solar calendar",
+        "The lunar calendar",
+        "The Gregorian calendar",
+        "The Julian calendar"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Isra wal Miraj refers to:",
+      "options": [
+        "The migration of Prophet Muhammad to Madinah",
+        "The Night Journey and Ascension of Prophet Muhammad",
+        "The revelation of the Quran",
+        "The conquest of Mecca"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The Zakah rate on savings held for one year (nisab) is:",
+      "options": [
+        "5%",
+        "2.5%",
+        "10%",
+        "20%"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "In Islam, marriage (Nikah) is considered:",
+      "options": [
+        "A religious obligation for all Muslims",
+        "A Sunnah (recommended practice)",
+        "A business transaction only",
+        "Forbidden for scholars"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The concept of Ummah in Islam refers to:",
+      "options": [
+        "The Quran",
+        "The global Muslim community",
+        "The Islamic government",
+        "The mosque"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is NOT one of the six articles of faith in Islam?",
+      "options": [
+        "Belief in Allah",
+        "Belief in the angels",
+        "Belief in Hajj",
+        "Belief in the Day of Judgement"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "The battle of Badr was fought in:",
+      "options": [
+        "624 CE",
+        "630 CE",
+        "632 CE",
+        "610 CE"
+      ],
+      "correctIndex": 0,
+      "year": 2022
+    },
+    {
+      "question": "Surah Al-Ikhlas (Chapter 112) emphasises:",
+      "options": [
+        "The story of creation",
+        "The absolute oneness of Allah",
+        "The Day of Judgement",
+        "Prophet Muhammad's life"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The direction Muslims face during prayer is called:",
+      "options": [
+        "Qibla",
+        "Adhan",
+        "Wudu",
+        "Minbar"
+      ],
+      "correctIndex": 0,
+      "year": 2022
+    },
+    {
+      "question": "Islam was established in Nigeria largely through:",
+      "options": [
+        "Conquest by Arab armies",
+        "Trade and the activities of scholars and teachers from North Africa",
+        "British colonial administration",
+        "Portuguese missionaries"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The concept of Sadaqah in Islam refers to:",
+      "options": [
+        "Obligatory charity (Zakat)",
+        "Voluntary charity given freely",
+        "Fasting during Ramadan",
+        "The pilgrimage"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The Usman Dan Fodio Jihad of 1804 in Nigeria aimed to:",
+      "options": [
+        "Spread Christianity",
+        "Purify Islam and establish Islamic governance in Hausaland",
+        "Resist British colonialism",
+        "Promote trade with North Africa"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "In Islamic ethics, Amanah means:",
+      "options": [
+        "Prayer",
+        "Trustworthiness and fulfilling one's responsibilities",
+        "Fasting",
+        "Pilgrimage"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The concept of Rizq in Islam refers to:",
+      "options": [
+        "Daily prayer",
+        "Sustenance and provision from Allah",
+        "Charity",
+        "Pilgrimage"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which surah is known as the 'heart of the Quran'?",
+      "options": [
+        "Al-Fatiha",
+        "Al-Baqarah",
+        "Ya-Sin",
+        "Al-Ikhlas"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "The concept of Istikharah refers to:",
+      "options": [
+        "Obligatory prayer",
+        "Seeking Allah's guidance through a special prayer when making decisions",
+        "Fasting on Mondays and Thursdays",
+        "The night prayer"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "In Islamic family law, the Mahr is:",
+      "options": [
+        "The divorce settlement",
+        "The mandatory gift given by the groom to the bride",
+        "The dowry paid by the bride's family",
+        "The marriage certificate"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The concept of Shura in Islamic governance means:",
+      "options": [
+        "Absolute rule by a single leader",
+        "Consultation and decision-making by consensus",
+        "Military leadership",
+        "Religious dictatorship"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The Islamic concept of Tawbah means:",
+      "options": [
+        "Gratitude to Allah",
+        "Repentance and returning to Allah after sin",
+        "Praise of Allah",
+        "Trust in Allah"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of the following is a characteristic of Islamic economics?",
+      "options": [
+        "Charging and paying interest (riba) is encouraged",
+        "Prohibition of interest (riba) and emphasis on profit-sharing",
+        "Hoarding of wealth is permitted",
+        "No obligation to pay Zakat"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "The concept of Ihsan in Islam means:",
+      "options": [
+        "Worship Allah as if you see Him, knowing He sees you",
+        "Completing the Hajj pilgrimage",
+        "Paying Zakat on time",
+        "Fasting voluntarily"
+      ],
+      "correctIndex": 0,
+      "year": 2025
+    },
+    {
+      "question": "The Sultans of Sokoto were successors of:",
+      "options": [
+        "The Oyo Empire",
+        "Usman Dan Fodio's Islamic caliphate",
+        "The Mali Empire",
+        "The Kanem-Bornu Empire"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "In Islam, Talaq refers to:",
+      "options": [
+        "Marriage",
+        "Divorce initiated by the husband",
+        "Adoption",
+        "The Friday sermon"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "The concept of Barakah in Islam refers to:",
+      "options": [
+        "Divine blessing and increase in good",
+        "Punishment for sins",
+        "The Day of Judgement",
+        "The call to prayer"
+      ],
+      "correctIndex": 0,
+      "year": 2025
+    }
+  ]
+}

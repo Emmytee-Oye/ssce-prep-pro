@@ -1,0 +1,720 @@
+{
+  "subject": "Literature in English",
+  "questions": [
+    {
+      "question": "Which of the following is a prose fiction by Chinua Achebe?",
+      "options": [
+        "Things Fall Apart",
+        "Wole Soyinka",
+        "The Lion and the Jewel",
+        "Death and the King's Horseman"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "A soliloquy is a speech delivered:",
+      "options": [
+        "By two characters simultaneously",
+        "By a character alone on stage to himself/herself",
+        "By a chorus",
+        "By the narrator"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The term 'protagonist' refers to:",
+      "options": [
+        "The villain of a story",
+        "The main or central character",
+        "The narrator",
+        "A minor character"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which literary device involves giving human qualities to non-human things?",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Alliteration"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "A haiku is a form of poetry originating from:",
+      "options": [
+        "China",
+        "Japan",
+        "Nigeria",
+        "India"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The climax of a story is:",
+      "options": [
+        "The beginning of the story",
+        "The resolution of the conflict",
+        "The turning point or moment of highest tension",
+        "The introduction of characters"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following best describes an epic?",
+      "options": [
+        "A short lyric poem",
+        "A long narrative poem about heroic deeds",
+        "A dramatic monologue",
+        "A comic story"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Irony occurs when:",
+      "options": [
+        "What is said is exactly what is meant",
+        "What is said is the opposite of what is meant",
+        "A character speaks directly to the audience",
+        "Two characters have the same name"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The setting of a story refers to:",
+      "options": [
+        "The main character",
+        "The central problem",
+        "The time and place where the story occurs",
+        "The resolution of events"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "A tragedy is a play that ends in:",
+      "options": [
+        "A happy resolution",
+        "Marriage of the main characters",
+        "The downfall or death of the protagonist",
+        "Comedy and laughter"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Alliteration is the repetition of:",
+      "options": [
+        "Vowel sounds within words",
+        "The same consonant sound at the beginning of words",
+        "The same word at the end of lines",
+        "Syllable patterns in poetry"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The omniscient narrator:",
+      "options": [
+        "Is a character in the story",
+        "Knows everything about all characters and events",
+        "Only knows what one character thinks",
+        "Only describes external actions"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is a feature of a sonnet?",
+      "options": [
+        "14 lines with a specific rhyme scheme",
+        "Free verse with no rhyme",
+        "32 lines divided into 8 stanzas",
+        "No fixed structure"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "Catharsis in drama refers to:",
+      "options": [
+        "The introduction of characters",
+        "The emotional purging experienced by the audience",
+        "The resolution of the plot",
+        "Comic relief in a serious play"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is an example of a simile?",
+      "options": [
+        "The sun is a golden coin",
+        "Her eyes were stars",
+        "She ran like the wind",
+        "The angry sea devoured the ship"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The conflict in a story refers to:",
+      "options": [
+        "The setting of the story",
+        "The struggle between opposing forces",
+        "The narrator's point of view",
+        "The dialogue between characters"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which literary period is associated with William Shakespeare?",
+      "options": [
+        "Victorian Age",
+        "Romantic Period",
+        "Elizabethan Age",
+        "Modern Period"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "An aside in drama is:",
+      "options": [
+        "A conversation between two main characters",
+        "Words spoken by a character that other characters on stage cannot hear",
+        "A lengthy speech by the narrator",
+        "The final scene of a play"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is NOT a genre of literature?",
+      "options": [
+        "Poetry",
+        "Prose",
+        "Drama",
+        "Grammar"
+      ],
+      "correctIndex": 3,
+      "year": 2020
+    },
+    {
+      "question": "The theme of a literary work is:",
+      "options": [
+        "The title of the work",
+        "The central message or idea explored in the work",
+        "The sequence of events",
+        "The setting of the story"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Onomatopoeia refers to words that:",
+      "options": [
+        "Have opposite meanings",
+        "Imitate the sound they describe",
+        "Rhyme with each other",
+        "Have multiple meanings"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The denouement of a play is:",
+      "options": [
+        "The opening scene",
+        "The climax",
+        "The final resolution or untangling of the plot",
+        "The first act"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "A flat character is one who:",
+      "options": [
+        "Undergoes significant change throughout the story",
+        "Has only one or two traits and does not develop",
+        "Is the main character of the story",
+        "Is always portrayed positively"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following best describes free verse?",
+      "options": [
+        "Poetry that follows a strict rhyme scheme",
+        "Poetry with a fixed number of syllables per line",
+        "Poetry that does not follow regular rhyme or meter",
+        "Poetry written only about nature"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "The antagonist in a story is:",
+      "options": [
+        "The main character",
+        "The character who opposes the protagonist",
+        "The narrator of the story",
+        "A supporting character"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Foreshadowing is a literary device used to:",
+      "options": [
+        "Describe the setting in detail",
+        "Hint at future events in the story",
+        "Reflect on past events",
+        "Compare two unlike things"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is a characteristic of oral literature?",
+      "options": [
+        "It is always written down",
+        "It is transmitted verbally from generation to generation",
+        "It has a single known author",
+        "It cannot be performed"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "A round character is one who:",
+      "options": [
+        "Is physically described as round",
+        "Is a minor character with no significant role",
+        "Is complex, multi-dimensional and undergoes change",
+        "Always appears at the beginning of the story"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is an example of hyperbole?",
+      "options": [
+        "The wind whispered through the trees",
+        "She is as brave as a lion",
+        "I have told you a million times",
+        "The night was a dark blanket"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "A flashback is a narrative technique that:",
+      "options": [
+        "Previews future events",
+        "Returns to earlier events in the story",
+        "Describes the setting",
+        "Introduces new characters"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The exposition of a story provides:",
+      "options": [
+        "The climax of the story",
+        "Background information about characters and setting",
+        "The resolution of the conflict",
+        "The falling action"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is a characteristic of a ballad?",
+      "options": [
+        "It is a long philosophical poem",
+        "It is a narrative poem, often with a refrain, about love or adventure",
+        "It has exactly 14 lines",
+        "It is always written in free verse"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Dramatic irony occurs when:",
+      "options": [
+        "The audience knows something a character does not",
+        "A character says the opposite of what they mean",
+        "Two characters misunderstand each other",
+        "The narrator provides incorrect information"
+      ],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "The term 'diction' in literature refers to:",
+      "options": [
+        "The plot structure of a story",
+        "The author's choice of words",
+        "The metre of a poem",
+        "The setting of a play"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is a feature of African oral literature?",
+      "options": [
+        "Individual authorship",
+        "Performance, repetition, and community participation",
+        "Always written in English",
+        "No use of proverbs"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "A metaphor directly compares two things:",
+      "options": [
+        "Using 'like' or 'as'",
+        "Without using 'like' or 'as'",
+        "Using exaggeration",
+        "Using sound words"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is a feature of tragedy according to Aristotle?",
+      "options": [
+        "A happy ending",
+        "A hamartia (tragic flaw) in the protagonist",
+        "Absence of conflict",
+        "Comic scenes throughout"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The narrative technique of stream of consciousness attempts to:",
+      "options": [
+        "Tell a story in strict chronological order",
+        "Depict the continuous flow of thoughts in a character's mind",
+        "Use an omniscient narrator",
+        "Focus only on external events"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following best describes satire?",
+      "options": [
+        "A serious poem about nature",
+        "The use of humour, irony, or exaggeration to criticise human vices or follies",
+        "A romantic story with a happy ending",
+        "A historical account of events"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The foil character in a story:",
+      "options": [
+        "Is always the villain",
+        "Contrasts with another character to highlight their qualities",
+        "Is the main character's best friend",
+        "Appears only at the end of the story"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "An ode is a type of poem that:",
+      "options": [
+        "Tells a story about heroes",
+        "Is a lyric poem of praise or celebration",
+        "Has exactly 10 lines",
+        "Is always humorous"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following best defines plot?",
+      "options": [
+        "The time and place of the story",
+        "The sequence of events in a story",
+        "The main character's motivation",
+        "The central theme of the work"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "In poetry, a caesura is:",
+      "options": [
+        "The last line of a stanza",
+        "A pause within a line of poetry",
+        "The repetition of vowel sounds",
+        "The rhythm pattern of the poem"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is an example of verbal irony?",
+      "options": [
+        "An audience knows a bomb is under a table but characters do not",
+        "A character says 'What lovely weather!' during a storm",
+        "A character's flaw leads to their downfall",
+        "A story ends differently from expectations"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The term 'bildungsroman' refers to a novel about:",
+      "options": [
+        "War and its consequences",
+        "The psychological and moral growth of the protagonist from youth to adulthood",
+        "Political revolution",
+        "Rural life and farming"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Assonance is the repetition of:",
+      "options": [
+        "Consonant sounds at the start of words",
+        "Vowel sounds within words",
+        "Words at the end of lines",
+        "Complete phrases"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is NOT a component of plot structure?",
+      "options": [
+        "Exposition",
+        "Rising action",
+        "Characterisation",
+        "Denouement"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "The term 'verisimilitude' in literature means:",
+      "options": [
+        "Extreme exaggeration for effect",
+        "The appearance of being true or real",
+        "A word that imitates a sound",
+        "Repetition of consonant sounds"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "A dirge is a type of poem that:",
+      "options": [
+        "Celebrates a hero's achievements",
+        "Mourns the death of someone",
+        "Describes beautiful scenery",
+        "Praises a king or ruler"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following correctly defines 'point of view' in literature?",
+      "options": [
+        "The setting of a story",
+        "The perspective from which a story is narrated",
+        "The moral lesson of a story",
+        "The climax of the story"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The term 'motif' in literature refers to:",
+      "options": [
+        "The main character's name",
+        "A recurring element that has symbolic significance",
+        "The conclusion of the story",
+        "The narrator's attitude"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following is a characteristic of modernist literature?",
+      "options": [
+        "Strict adherence to traditional forms",
+        "Stream of consciousness, fragmentation, and questioning of traditional values",
+        "Focus on heroic legends",
+        "Simple, straightforward narrative"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Pathetic fallacy is a technique where:",
+      "options": [
+        "Characters make false statements",
+        "Weather or nature reflects a character's emotional state",
+        "A character blames others for their problems",
+        "Nature is described scientifically"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The epigraph of a literary work is:",
+      "options": [
+        "The last paragraph",
+        "A quotation at the beginning that hints at the theme",
+        "The author's biography",
+        "The chapter headings"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following is a feature of post-colonial African literature?",
+      "options": [
+        "Celebration of colonialism",
+        "Exploration of identity, cultural conflict, and the effects of colonialism",
+        "Written exclusively in African languages",
+        "Avoidance of political themes"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The term 'dénouement' refers to:",
+      "options": [
+        "The rising action of a plot",
+        "The part of a plot where matters are explained or resolved",
+        "The introduction of the main character",
+        "The central conflict of the story"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of the following best describes an elegy?",
+      "options": [
+        "A humorous poem",
+        "A poem of serious reflection, typically mourning someone's death",
+        "A poem about heroic deeds",
+        "A short Japanese poem"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The unreliable narrator is one who:",
+      "options": [
+        "Always tells the truth",
+        "Provides a limited or biased account that the reader cannot fully trust",
+        "Knows everything about all characters",
+        "Is the author of the story"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Intertextuality refers to:",
+      "options": [
+        "Text written between two books",
+        "The relationship between texts through allusions, quotations, or parallels",
+        "The space between paragraphs",
+        "The author's personal style"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of the following is a feature of the absurdist tradition in drama?",
+      "options": [
+        "Realistic portrayal of everyday life",
+        "Emphasis on the meaninglessness of human existence and illogical situations",
+        "Happy endings and resolved conflicts",
+        "Historical settings and characters"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The term 'archetype' in literature refers to:",
+      "options": [
+        "The oldest manuscript of a text",
+        "A universally recognisable character type or symbol",
+        "A form of punctuation",
+        "A type of narrator"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Which of the following is an example of a Petrarchan sonnet feature?",
+      "options": [
+        "Three quatrains and a couplet",
+        "An octave (8 lines) and a sestet (6 lines)",
+        "Fourteen couplets",
+        "No fixed rhyme scheme"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "The concept of 'negative capability' was proposed by:",
+      "options": [
+        "William Wordsworth",
+        "John Keats",
+        "Samuel Taylor Coleridge",
+        "Percy Bysshe Shelley"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Which of the following is a characteristic of magical realism?",
+      "options": [
+        "Strict adherence to scientific facts",
+        "Blending of realistic narrative with fantastical or magical elements presented as normal",
+        "Focus on horror and terror",
+        "Historical fiction with no imagination"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "The term 'hubris' in tragic literature refers to:",
+      "options": [
+        "The tragic flaw of excessive pride that leads to a character's downfall",
+        "The resolution of a tragedy",
+        "The comic relief in a serious play",
+        "A type of ancient Greek chorus"
+      ],
+      "correctIndex": 0,
+      "year": 2025
+    }
+  ]
+}

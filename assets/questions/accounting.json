@@ -1,0 +1,687 @@
+{
+  "subject": "Accounting",
+  "questions": [
+    {
+      "question": "The accounting equation is:",
+      "options": [
+        "Assets = Liabilities + Capital",
+        "Assets = Liabilities - Capital",
+        "Capital = Assets + Liabilities",
+        "Liabilities = Assets + Capital"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is a current asset?",
+      "options": [
+        "Land and buildings",
+        "Motor vehicles",
+        "Trade receivables (debtors)",
+        "Long-term investments"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The double entry principle states that every transaction has:",
+      "options": [
+        "One debit and one credit entry of equal amounts",
+        "Two debit entries only",
+        "Two credit entries only",
+        "One entry in the cash book only"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "A trial balance is prepared to:",
+      "options": [
+        "Show the profit for the year",
+        "Check the arithmetical accuracy of the ledger entries",
+        "Show the financial position of the business",
+        "Record all cash transactions"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is a capital expenditure?",
+      "options": [
+        "Purchase of stationery",
+        "Payment of electricity bills",
+        "Purchase of a delivery van",
+        "Payment of salaries"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Depreciation is defined as:",
+      "options": [
+        "The increase in value of an asset over time",
+        "The systematic reduction in the value of a fixed asset over its useful life",
+        "The repair cost of an asset",
+        "The replacement cost of an asset"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The straight-line method of depreciation charges:",
+      "options": [
+        "More depreciation in early years",
+        "Less depreciation in early years",
+        "Equal depreciation each year",
+        "Depreciation based on usage"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Which account has a credit balance?",
+      "options": [
+        "Cash account",
+        "Purchases account",
+        "Sales account",
+        "Wages account"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "A credit sale is recorded as:",
+      "options": [
+        "Debit cash, Credit sales",
+        "Debit debtors, Credit sales",
+        "Debit sales, Credit debtors",
+        "Debit cash, Credit debtors"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The balance sheet shows:",
+      "options": [
+        "Profit and loss for the year",
+        "Cash received and paid during the year",
+        "The financial position of a business at a given date",
+        "All transactions during the year"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Gross profit is calculated as:",
+      "options": [
+        "Net sales minus all expenses",
+        "Net sales minus cost of goods sold",
+        "Total revenue minus total expenses",
+        "Sales minus purchases"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is a revenue expenditure?",
+      "options": [
+        "Purchase of machinery",
+        "Building a new factory",
+        "Payment of rent",
+        "Purchase of computers for office use"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The cash book records:",
+      "options": [
+        "Only credit transactions",
+        "All cash and bank transactions",
+        "Only purchases and sales",
+        "Only payments made"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "A bank reconciliation statement is prepared to:",
+      "options": [
+        "Correct errors in the cash book permanently",
+        "Explain differences between the cash book balance and the bank statement balance",
+        "Show the profit from banking activities",
+        "Record all bank transactions"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following best describes a liability?",
+      "options": [
+        "Something the business owns",
+        "Money owed BY the business to others",
+        "Profit earned by the business",
+        "An asset with long useful life"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The petty cash book is used to record:",
+      "options": [
+        "All large cash payments",
+        "Small, frequent cash expenses",
+        "All bank transactions",
+        "Credit purchases only"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Carriage inwards is:",
+      "options": [
+        "An income item added to sales",
+        "The cost of transporting purchased goods to the business",
+        "The cost of delivering goods to customers",
+        "A long-term liability"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The purchases day book records:",
+      "options": [
+        "All purchases made for cash",
+        "All goods purchased on credit",
+        "All sales made on credit",
+        "All returns to suppliers"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is included in the trading account?",
+      "options": [
+        "Rent expense",
+        "Salaries",
+        "Opening and closing stock",
+        "Depreciation"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "A debtor is:",
+      "options": [
+        "A person who owes money to the business",
+        "A person to whom the business owes money",
+        "A bank that lends money to the business",
+        "A supplier of goods on credit"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "Closing stock is valued at:",
+      "options": [
+        "Selling price only",
+        "Cost price only",
+        "The lower of cost and net realisable value",
+        "Market price only"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is a non-current (fixed) asset?",
+      "options": [
+        "Trade receivables",
+        "Cash in hand",
+        "Prepaid expenses",
+        "Plant and machinery"
+      ],
+      "correctIndex": 3,
+      "year": 2021
+    },
+    {
+      "question": "The reducing balance method of depreciation:",
+      "options": [
+        "Charges equal depreciation each year",
+        "Charges more depreciation in early years and less in later years",
+        "Charges less depreciation in early years",
+        "Does not affect the book value of the asset"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "When a debtor's account is written off as a bad debt, the entry is:",
+      "options": [
+        "Debit bad debts, Credit debtors",
+        "Debit debtors, Credit bad debts",
+        "Debit cash, Credit bad debts",
+        "Debit bad debts, Credit cash"
+      ],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "The accruals concept states that:",
+      "options": [
+        "Revenue is recorded only when cash is received",
+        "Revenue and expenses are recorded when earned or incurred, not when cash changes hands",
+        "Expenses are recorded only when paid",
+        "Profit equals cash received minus cash paid"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "A provision for bad debts is created to:",
+      "options": [
+        "Write off all debts",
+        "Anticipate possible future bad debts and match them against current income",
+        "Record cash received from debtors",
+        "Increase the value of debtors"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is shown in the profit and loss account?",
+      "options": [
+        "Land and buildings",
+        "Motor vehicles",
+        "Rent expense",
+        "Trade receivables"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "The going concern concept assumes that:",
+      "options": [
+        "The business will close down soon",
+        "The business will continue operating in the foreseeable future",
+        "All assets will be sold at market value",
+        "The business always makes a profit"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Carriage outwards is:",
+      "options": [
+        "A deduction from purchases",
+        "Debited to the trading account",
+        "The cost of delivering goods to customers, charged to profit and loss account",
+        "Added to the cost of goods sold"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following correctly defines 'working capital'?",
+      "options": [
+        "Total assets minus total liabilities",
+        "Fixed assets minus long-term liabilities",
+        "Current assets minus current liabilities",
+        "Capital plus long-term liabilities"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "A return inwards (sales returns) is recorded in the:",
+      "options": [
+        "Purchases day book",
+        "Sales day book",
+        "Returns inward day book",
+        "Cash book"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is the correct treatment of drawings by a sole trader?",
+      "options": [
+        "Debited to drawings account, reducing capital",
+        "Credited to drawings account, increasing capital",
+        "Debited to expenses account",
+        "Credited to the cash account only"
+      ],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "Prepaid expenses are shown in the balance sheet as:",
+      "options": [
+        "A current liability",
+        "A long-term liability",
+        "A current asset",
+        "A fixed asset"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Accrued expenses are shown in the balance sheet as:",
+      "options": [
+        "A current asset",
+        "A fixed asset",
+        "A current liability",
+        "Capital"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is a source document in accounting?",
+      "options": [
+        "Trial balance",
+        "Balance sheet",
+        "Sales invoice",
+        "Profit and loss account"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "The imprest system in petty cash means:",
+      "options": [
+        "The petty cashier keeps unlimited cash",
+        "The petty cash float is restored to a fixed amount at regular intervals",
+        "All payments are made by cheque",
+        "The petty cash is used only for salaries"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Net profit is calculated as:",
+      "options": [
+        "Gross profit minus all operating expenses",
+        "Sales minus purchases",
+        "Total revenue only",
+        "Gross profit plus other income only"
+      ],
+      "correctIndex": 0,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following best describes the consistency concept?",
+      "options": [
+        "All transactions must be recorded at historical cost",
+        "The same accounting methods should be used from one period to the next",
+        "Revenue should only be recognised when cash is received",
+        "All possible losses should be anticipated"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The folio column in a ledger account is used to:",
+      "options": [
+        "Record the date of each transaction",
+        "Show the amount of each transaction",
+        "Cross-reference to the book of original entry",
+        "Record the name of the person involved"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "A suspense account is opened when:",
+      "options": [
+        "A new business starts operations",
+        "The trial balance does not balance",
+        "A debtor cannot pay",
+        "Stock is found to be missing"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is a book of original entry?",
+      "options": [
+        "Sales ledger",
+        "General ledger",
+        "Journal",
+        "Balance sheet"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "In accounting, the prudence (conservatism) concept means:",
+      "options": [
+        "All profits are recognised immediately",
+        "Anticipate all possible losses but only recognise profits when certain",
+        "Record all transactions at current market values",
+        "Match income with expenses in the same period"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The current ratio is calculated as:",
+      "options": [
+        "Current assets / Total assets",
+        "Current liabilities / Current assets",
+        "Current assets / Current liabilities",
+        "Fixed assets / Current liabilities"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "Stock turnover ratio measures:",
+      "options": [
+        "How quickly a business pays its creditors",
+        "How many times stock is sold and replaced in a period",
+        "The profitability of the business",
+        "How quickly debtors pay"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following is a characteristic of partnership accounts compared to sole trader accounts?",
+      "options": [
+        "No capital account is needed",
+        "An appropriation account is used to divide profit between partners",
+        "No drawings are allowed",
+        "A partnership never uses a trading account"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Goodwill in partnership accounts arises when:",
+      "options": [
+        "A new partner is admitted or an existing partner retires",
+        "The partnership makes a large profit",
+        "The partnership takes out a loan",
+        "All partners agree to dissolve the partnership"
+      ],
+      "correctIndex": 0,
+      "year": 2023
+    },
+    {
+      "question": "The acid test (quick) ratio is calculated as:",
+      "options": [
+        "(Current assets - Stock) / Current liabilities",
+        "Current assets / Current liabilities",
+        "Stock / Current liabilities",
+        "Total assets / Total liabilities"
+      ],
+      "correctIndex": 0,
+      "year": 2023
+    },
+    {
+      "question": "In club accounts, the income and expenditure account is the equivalent of the:",
+      "options": [
+        "Balance sheet",
+        "Cash book",
+        "Profit and loss account",
+        "Trading account"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following is NOT an error revealed by a trial balance?",
+      "options": [
+        "A posting made to the wrong side of an account",
+        "Arithmetic errors in the ledger",
+        "Complete omission of a transaction from both accounts",
+        "Wrong totalling of ledger accounts"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "The receipts and payments account of a club records:",
+      "options": [
+        "Only income earned during the period",
+        "All cash and bank receipts and payments",
+        "Only capital expenditure",
+        "Income and expenses on accruals basis"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "In a manufacturing account, prime cost equals:",
+      "options": [
+        "Direct materials + Direct labour + Factory overhead",
+        "Direct materials + Direct labour only",
+        "Total factory cost including depreciation of factory",
+        "Cost of finished goods produced"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of the following is a capital receipt?",
+      "options": [
+        "Revenue from sales",
+        "Rent received",
+        "Proceeds from sale of a fixed asset",
+        "Interest received on investments"
+      ],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "Return on capital employed (ROCE) is calculated as:",
+      "options": [
+        "Net profit / Sales × 100",
+        "Net profit / Capital employed × 100",
+        "Gross profit / Sales × 100",
+        "Net profit / Total assets × 100"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of the following is a disadvantage of the straight-line depreciation method?",
+      "options": [
+        "Complex to calculate",
+        "Does not reflect the fact that assets are more useful in early years",
+        "Results in unequal charges each year",
+        "Cannot be applied to all assets"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "In the absence of a partnership agreement, profits and losses are shared:",
+      "options": [
+        "According to capital contributed",
+        "Equally among all partners",
+        "According to time devoted to the business",
+        "According to seniority of partners"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The gross profit percentage (margin) is:",
+      "options": [
+        "(Gross profit / Cost of sales) × 100",
+        "(Gross profit / Net sales) × 100",
+        "(Net profit / Net sales) × 100",
+        "(Gross profit / Total assets) × 100"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "A revaluation account in partnership is opened when:",
+      "options": [
+        "Partners decide to take out loans",
+        "Assets and liabilities are revalued when a partner joins or leaves",
+        "The partnership makes unusually high profits",
+        "The partners want to change the profit-sharing ratio only"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of the following is shown on the debit side of a partner's current account?",
+      "options": [
+        "Salary allocated to the partner",
+        "Interest on capital",
+        "Share of profit",
+        "Drawings by the partner"
+      ],
+      "correctIndex": 3,
+      "year": 2025
+    },
+    {
+      "question": "The manufacturing account shows:",
+      "options": [
+        "The profit from selling manufactured goods",
+        "The cost of goods manufactured during the period",
+        "The financial position of a manufacturer",
+        "All expenses of a manufacturing business"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Which accounting concept requires that assets are recorded at their original purchase price?",
+      "options": [
+        "Going concern concept",
+        "Accruals concept",
+        "Historical cost concept",
+        "Prudence concept"
+      ],
+      "correctIndex": 2,
+      "year": 2025
+    },
+    {
+      "question": "Overheads in manufacturing include:",
+      "options": [
+        "Direct materials only",
+        "Direct labour only",
+        "Indirect costs such as factory rent, electricity, and supervisors' wages",
+        "Raw materials purchased"
+      ],
+      "correctIndex": 2,
+      "year": 2025
+    },
+    {
+      "question": "Which of the following is used to calculate the debtors collection period?",
+      "options": [
+        "(Debtors / Sales) × 365",
+        "(Creditors / Purchases) × 365",
+        "(Stock / Cost of sales) × 365",
+        "(Current assets / Current liabilities) × 100"
+      ],
+      "correctIndex": 0,
+      "year": 2025
+    }
+  ]
+}

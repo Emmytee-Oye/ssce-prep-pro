@@ -1,0 +1,786 @@
+{
+  "subject": "CRS",
+  "questions": [
+    {
+      "question": "According to Genesis, on which day did God create man?",
+      "options": [
+        "Fourth day",
+        "Fifth day",
+        "Sixth day",
+        "Seventh day"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Who was the first murderer in the Bible?",
+      "options": [
+        "Abel",
+        "Cain",
+        "Lamech",
+        "Esau"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The covenant God made with Noah was symbolised by:",
+      "options": [
+        "Circumcision",
+        "A rainbow",
+        "A burning bush",
+        "A pillar of fire"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Abraham was originally from:",
+      "options": [
+        "Canaan",
+        "Egypt",
+        "Ur of the Chaldeans",
+        "Haran"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "God tested Abraham's faith by asking him to sacrifice:",
+      "options": [
+        "Jacob",
+        "Esau",
+        "Isaac",
+        "Ishmael"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Who sold Joseph into slavery?",
+      "options": [
+        "His father",
+        "His brothers",
+        "Potiphar",
+        "Pharaoh"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The Ten Commandments were given to Moses on Mount:",
+      "options": [
+        "Zion",
+        "Carmel",
+        "Sinai",
+        "Horeb"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Which judge of Israel had extraordinary physical strength?",
+      "options": [
+        "Gideon",
+        "Deborah",
+        "Samson",
+        "Jephthah"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Who anointed Saul as the first king of Israel?",
+      "options": [
+        "Nathan",
+        "Elijah",
+        "Samuel",
+        "Moses"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "David was described in the Bible as a man after:",
+      "options": [
+        "Samuel's heart",
+        "God's own heart",
+        "Saul's heart",
+        "Abraham's heart"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Who was the wisest king in Israel?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Rehoboam"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Elijah's contest with the prophets of Baal took place on Mount:",
+      "options": [
+        "Sinai",
+        "Zion",
+        "Carmel",
+        "Horeb"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The prophet who was swallowed by a great fish was:",
+      "options": [
+        "Amos",
+        "Hosea",
+        "Jonah",
+        "Micah"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Isaiah's vision of God in the temple is recorded in:",
+      "options": [
+        "Isaiah 1",
+        "Isaiah 6",
+        "Isaiah 40",
+        "Isaiah 53"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Jesus was born in:",
+      "options": [
+        "Jerusalem",
+        "Nazareth",
+        "Bethlehem",
+        "Capernaum"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "John the Baptist was the son of:",
+      "options": [
+        "Joseph",
+        "Zechariah",
+        "Simeon",
+        "Anna"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Jesus was baptised in the River:",
+      "options": [
+        "Nile",
+        "Euphrates",
+        "Tigris",
+        "Jordan"
+      ],
+      "correctIndex": 3,
+      "year": 2020
+    },
+    {
+      "question": "The first miracle of Jesus was performed at:",
+      "options": [
+        "Jerusalem",
+        "Capernaum",
+        "Cana of Galilee",
+        "Bethany"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The parable of the Prodigal Son is found in:",
+      "options": [
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Who betrayed Jesus for thirty pieces of silver?",
+      "options": [
+        "Peter",
+        "Thomas",
+        "Judas Iscariot",
+        "James"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Jesus was crucified at a place called:",
+      "options": [
+        "Gethsemane",
+        "Golgotha",
+        "Bethlehem",
+        "Nazareth"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Who denied Jesus three times?",
+      "options": [
+        "John",
+        "James",
+        "Peter",
+        "Thomas"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The Holy Spirit descended on the disciples on the day of:",
+      "options": [
+        "Easter",
+        "Christmas",
+        "Pentecost",
+        "Passover"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The first martyr of the Christian church was:",
+      "options": [
+        "Peter",
+        "Paul",
+        "Stephen",
+        "James"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Paul's original name before his conversion was:",
+      "options": [
+        "Simon",
+        "Saul",
+        "Barnabas",
+        "Silas"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The greatest commandment according to Jesus is:",
+      "options": [
+        "Do not murder",
+        "Love God and love your neighbour",
+        "Keep the Sabbath",
+        "Do not steal"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "According to Genesis, the forbidden fruit was in:",
+      "options": [
+        "The Garden of Eden",
+        "The Garden of Gethsemane",
+        "The land of Canaan",
+        "The land of Nod"
+      ],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "Jacob's name was changed to Israel after he:",
+      "options": [
+        "Prayed all night",
+        "Wrestled with an angel",
+        "Crossed the Red Sea",
+        "Built an altar"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Moses led the Israelites out of Egypt. This event is called the:",
+      "options": [
+        "Exodus",
+        "Conquest",
+        "Restoration",
+        "Exile"
+      ],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "The Passover commemorated:",
+      "options": [
+        "Israel crossing the Jordan",
+        "God's deliverance of Israel from Egypt",
+        "Moses receiving the law",
+        "The building of the tabernacle"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Deborah was significant in Israel because she was:",
+      "options": [
+        "A queen",
+        "A prophet and judge",
+        "The wife of a high priest",
+        "A foreign princess"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The story of Ruth demonstrates the virtue of:",
+      "options": [
+        "Courage in battle",
+        "Loyalty and faithfulness",
+        "Wisdom in leadership",
+        "Wealth and prosperity"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Saul disobeyed God by:",
+      "options": [
+        "Building the temple",
+        "Sparing King Agag and the best animals",
+        "Marrying a foreign wife",
+        "Worshipping at high places"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The prophet Nathan confronted David about:",
+      "options": [
+        "His failure to build the temple",
+        "His sin with Bathsheba",
+        "His treatment of Saul",
+        "His worship of idols"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Solomon asked God for:",
+      "options": [
+        "Long life",
+        "Wealth",
+        "Wisdom",
+        "Victory over enemies"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "The Northern Kingdom of Israel fell to:",
+      "options": [
+        "Babylon",
+        "Egypt",
+        "Assyria",
+        "Persia"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Jeremiah is called the weeping prophet because:",
+      "options": [
+        "He cried during worship",
+        "He mourned over Israel's sins and Jerusalem's fall",
+        "He had a physical ailment",
+        "He lost his family"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The Sermon on the Mount is found in:",
+      "options": [
+        "Matthew 5-7",
+        "Luke 6",
+        "John 3",
+        "Mark 4"
+      ],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "Jesus called twelve disciples. Which was NOT one of them?",
+      "options": [
+        "Peter",
+        "Barnabas",
+        "John",
+        "Matthew"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The transfiguration of Jesus took place on:",
+      "options": [
+        "A river bank",
+        "A high mountain",
+        "A desert plain",
+        "A temple court"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Who was the Roman governor who sentenced Jesus to death?",
+      "options": [
+        "Herod",
+        "Caesar",
+        "Pontius Pilate",
+        "Caiaphas"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "The resurrection of Jesus took place on:",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Paul's conversion took place on the road to:",
+      "options": [
+        "Jerusalem",
+        "Corinth",
+        "Damascus",
+        "Rome"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "The fruit of the Spirit listed in Galatians 5 includes:",
+      "options": [
+        "Power, wealth, and fame",
+        "Love, joy, peace, patience",
+        "Intelligence, beauty, strength",
+        "Faith, hope, and charity"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "According to the Sermon on the Mount, the meek shall:",
+      "options": [
+        "See God",
+        "Inherit the earth",
+        "Be comforted",
+        "Obtain mercy"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Joseph's coat was given to him by:",
+      "options": [
+        "His mother Rachel",
+        "His father Jacob",
+        "His brother Reuben",
+        "Pharaoh"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The books of Moses are collectively called:",
+      "options": [
+        "The Psalms",
+        "The Pentateuch",
+        "The Prophets",
+        "The Wisdom books"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The church at Jerusalem was scattered because of persecution led by:",
+      "options": [
+        "Herod",
+        "Nero",
+        "Saul of Tarsus",
+        "Pontius Pilate"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Amos was a prophet who emphasised:",
+      "options": [
+        "Holiness and ritual purity",
+        "Social justice and care for the poor",
+        "Military victory",
+        "Temple worship"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The New Testament book recording the history of the early church is:",
+      "options": [
+        "Romans",
+        "Acts of the Apostles",
+        "Revelation",
+        "Hebrews"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Jesus described himself as the Good Shepherd in:",
+      "options": [
+        "Matthew 18",
+        "Luke 15",
+        "John 10",
+        "Mark 6"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "The Lord's Prayer begins with:",
+      "options": [
+        "Hallowed be thy name",
+        "Our Father who art in heaven",
+        "Thy kingdom come",
+        "Give us this day our daily bread"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Hosea's marriage illustrated God's relationship with:",
+      "options": [
+        "The church",
+        "Israel",
+        "The Gentiles",
+        "Solomon"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The theme of the book of Job is:",
+      "options": [
+        "God's creation",
+        "Suffering and faith",
+        "Israel's history",
+        "The coming Messiah"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which prophet announced a virgin would conceive and bear a son called Emmanuel?",
+      "options": [
+        "Jeremiah",
+        "Ezekiel",
+        "Isaiah",
+        "Micah"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "The parable of the talents teaches:",
+      "options": [
+        "The importance of saving money",
+        "Using God-given abilities faithfully",
+        "The danger of wealth",
+        "Equal distribution of resources"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Paul and Silas were imprisoned in:",
+      "options": [
+        "Corinth",
+        "Philippi",
+        "Ephesus",
+        "Athens"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The concept of justification by faith is developed mainly in:",
+      "options": [
+        "1 Corinthians",
+        "Ephesians",
+        "Romans and Galatians",
+        "Hebrews"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "Daniel was thrown into the lions' den because he:",
+      "options": [
+        "Refused to bow to an idol",
+        "Continued to pray to God despite a decree forbidding it",
+        "Spoke against the king",
+        "Refused to eat the king's food"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The beatitudes are found in:",
+      "options": [
+        "Luke 4",
+        "Matthew 5",
+        "John 3",
+        "Mark 1"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Ezekiel's vision of dry bones symbolised:",
+      "options": [
+        "The resurrection of Christ",
+        "The restoration of Israel",
+        "The creation of man",
+        "The end of the world"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The word Gospel means:",
+      "options": [
+        "Law",
+        "Good news",
+        "Prophecy",
+        "Wisdom"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Jesus raised Lazarus after he had been dead for:",
+      "options": [
+        "One day",
+        "Two days",
+        "Three days",
+        "Four days"
+      ],
+      "correctIndex": 3,
+      "year": 2024
+    },
+    {
+      "question": "The Council of Jerusalem (Acts 15) discussed:",
+      "options": [
+        "Election of a new apostle",
+        "Whether Gentile Christians needed circumcision",
+        "Paul's missionary journeys",
+        "Building of a new church"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of Paul's epistles was written about a runaway slave?",
+      "options": [
+        "Titus",
+        "Philemon",
+        "Timothy",
+        "Philippians"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The New Covenant was prophesied by:",
+      "options": [
+        "Isaiah",
+        "Ezekiel",
+        "Jeremiah",
+        "Daniel"
+      ],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "The Magnificat is a song sung by:",
+      "options": [
+        "Elizabeth",
+        "Mary",
+        "Anna",
+        "Miriam"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Stephen was stoned while:",
+      "options": [
+        "Preaching in the temple",
+        "Praying and forgiving his killers",
+        "Arguing with the Pharisees",
+        "Healing a blind man"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Micah 6:8 emphasises:",
+      "options": [
+        "Sacrifice and ritual",
+        "Acting justly, loving mercy, walking humbly with God",
+        "Military strength",
+        "Prosperity and wealth"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Jesus instituted the Lord's Supper during:",
+      "options": [
+        "The Feast of Tabernacles",
+        "The Passover meal",
+        "The Feast of Weeks",
+        "The Day of Atonement"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "The book of Revelation's central message is:",
+      "options": [
+        "The history of the early church",
+        "God's ultimate victory over evil and hope of eternal life",
+        "Paul's missionary journeys",
+        "The life of Jesus"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    }
+  ]
+}

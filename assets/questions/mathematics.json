@@ -1,0 +1,767 @@
+{
+  "subject": "Mathematics",
+  "questions": [
+    {
+      "question": "Simplify: 2¹⁰ × 2⁻⁷",
+      "options": ["2", "4", "8", "16"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "If 3x + 5 = 14, find x.",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Find the value of x in 2x - 3 = 7.",
+      "options": ["2", "4", "5", "7"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Evaluate: log₁₀ 1000",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "If a : b = 3 : 4 and b : c = 6 : 7, find a : c.",
+      "options": ["7:8", "8:9", "9:14", "18:28"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The sum of angles in a triangle is:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Find the gradient of the line passing through (2, 3) and (4, 7).",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Simplify: √75 + √27",
+      "options": ["8√3", "9√3", "10√3", "12√3"],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "A car travels 120 km in 2 hours. What is its average speed?",
+      "options": ["40 km/h", "50 km/h", "60 km/h", "80 km/h"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "What is 35% of 200?",
+      "options": ["60", "65", "70", "75"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Factorise: x² - 5x + 6",
+      "options": ["(x-2)(x-3)", "(x+2)(x+3)", "(x-1)(x-6)", "(x+1)(x-6)"],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "The area of a circle with radius 7 cm is: (Take π = 22/7)",
+      "options": ["44 cm²", "154 cm²", "176 cm²", "308 cm²"],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Solve: 2(x + 3) = x + 10",
+      "options": ["x = 2", "x = 4", "x = 6", "x = 8"],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "What is the median of 3, 5, 7, 9, 11?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "If P = {1,2,3,4} and Q = {2,4,6,8}, find P ∩ Q.",
+      "options": ["{2,4}", "{1,3}", "{6,8}", "{1,2,3,4,6,8}"],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "The volume of a cube with side 3 cm is:",
+      "options": ["9 cm³", "18 cm³", "27 cm³", "36 cm³"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Convert 0.35 to a fraction in its lowest terms.",
+      "options": ["7/20", "7/25", "35/10", "35/100"],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "Find the simple interest on ₦5000 at 4% per annum for 3 years.",
+      "options": ["₦400", "₦500", "₦600", "₦700"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "What is the value of 5! (5 factorial)?",
+      "options": ["25", "60", "100", "120"],
+      "correctIndex": 3,
+      "year": 2020
+    },
+    {
+      "question": "If sin θ = 3/5, find cos θ.",
+      "options": ["3/4", "4/5", "5/3", "5/4"],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The interior angle of a regular hexagon is:",
+      "options": ["108°", "110°", "120°", "135°"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Simplify: (3x²y)(2xy²)",
+      "options": ["5x²y²", "5x³y³", "6x³y³", "6x²y²"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The mean of 4, 6, 8, 10, 12 is:",
+      "options": ["6", "7", "8", "10"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Find the LCM of 12, 15, and 20.",
+      "options": ["30", "45", "60", "90"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "If 2^x = 32, what is x?",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The perimeter of a rectangle with length 8 cm and width 5 cm is:",
+      "options": ["13 cm", "20 cm", "26 cm", "40 cm"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Express 5/8 as a percentage.",
+      "options": ["55.5%", "60%", "62.5%", "65%"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Solve: 3x - 4 > 5",
+      "options": ["x > 1", "x > 2", "x > 3", "x > 4"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The number of sides of a polygon whose exterior angles each equal 45° is:",
+      "options": ["6", "7", "8", "9"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "If y varies directly as x and y = 12 when x = 4, find y when x = 7.",
+      "options": ["18", "19", "21", "24"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The angle subtended by a diameter at the circumference of a circle is:",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Simplify: (x + 3)(x - 3)",
+      "options": ["x² - 9", "x² + 9", "x² - 6x - 9", "x² + 6x - 9"],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "If the probability of rain is 0.3, what is the probability it will NOT rain?",
+      "options": ["0.3", "0.5", "0.7", "1.0"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Find the range of 4, 7, 2, 9, 1, 5.",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 3,
+      "year": 2020
+    },
+    {
+      "question": "A triangle has base 10 cm and height 6 cm. Its area is:",
+      "options": ["20 cm²", "30 cm²", "40 cm²", "60 cm²"],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "If 2x + y = 7 and x - y = 2, find x.",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is a prime number?",
+      "options": ["27", "33", "41", "49"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Evaluate: 2/3 + 3/4",
+      "options": ["5/7", "17/12", "1/12", "5/12"],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Convert 180° to radians.",
+      "options": ["π/2", "π", "2π", "3π"],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Find the HCF of 24 and 36.",
+      "options": ["6", "8", "12", "18"],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Evaluate: 3² + 4²",
+      "options": ["25", "35", "42", "49"],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "Simplify: (a²b³)/(ab)",
+      "options": ["ab²", "a²b", "ab", "a³b²"],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "Find x if log₂ x = 5",
+      "options": ["10", "16", "32", "64"],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "The circumference of a circle with diameter 14 cm is: (π = 22/7)",
+      "options": ["22 cm", "44 cm", "66 cm", "88 cm"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Solve: x² - 7x + 12 = 0",
+      "options": ["x=2,x=5", "x=3,x=4", "x=1,x=12", "x=6,x=2"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "A man buys a book for ₦400 and sells it for ₦500. His profit percentage is:",
+      "options": ["10%", "20%", "25%", "30%"],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Find the value of x: 5x - 2 = 3x + 8",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "What is the sum of interior angles of a pentagon?",
+      "options": ["360°", "450°", "540°", "720°"],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "The mode of 2, 3, 5, 3, 7, 3, 8 is:",
+      "options": ["2", "3", "5", "7"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "If tan θ = 1, find θ.",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Simplify: 3√2 × 2√8",
+      "options": ["12", "24", "36", "48"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Find the nth term of the sequence 3, 7, 11, 15...",
+      "options": ["3n+1", "4n-1", "4n+3", "3n+4"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "A rectangle has area 48 cm² and length 8 cm. Find its width.",
+      "options": ["4 cm", "6 cm", "8 cm", "10 cm"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Express 0.004 in standard form.",
+      "options": ["4×10²", "4×10⁻²", "4×10⁻³", "4×10³"],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "If x varies inversely as y and x = 4 when y = 3, find x when y = 6.",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The probability of selecting a red ball from a bag of 5 red and 3 blue balls is:",
+      "options": ["3/8", "5/8", "1/2", "2/3"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Simplify: (2x + 3)(x - 1)",
+      "options": ["2x² + x - 3", "2x² - x + 3", "2x² + x + 3", "2x² - x - 3"],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "The volume of a cylinder with radius 3.5 cm and height 10 cm is: (π = 22/7)",
+      "options": ["110 cm³", "330 cm³", "385 cm³", "440 cm³"],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Two angles of a triangle are 65° and 45°. Find the third angle.",
+      "options": ["60°", "65°", "70°", "80°"],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Find the quadratic equation whose roots are 2 and -3.",
+      "options": ["x²-x-6=0", "x²+x-6=0", "x²-x+6=0", "x²+x+6=0"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "If U={1,2,3,4,5,6,7,8} and A={2,4,6,8}, find A' (complement of A).",
+      "options": ["{1,3,5,7}", "{2,4,6,8}", "{1,2,3}", "{5,6,7,8}"],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "A ladder 10 m long leans against a wall. If it makes 60° with the ground, how high up the wall does it reach?",
+      "options": ["5 m", "5√3 m", "5√2 m", "8 m"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Factorize: 4x² - 9",
+      "options": ["(2x-3)(2x+3)", "(4x-3)(x+3)", "(2x-9)(2x+1)", "(4x+3)(x-3)"],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "The bearing of A from B is 050°. What is the bearing of B from A?",
+      "options": ["130°", "180°", "230°", "310°"],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Simplify: (x² - 4)/(x - 2)",
+      "options": ["x - 2", "x + 2", "x² + 2", "x² - 2"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Find the value of x in: 3^x = 1/9",
+      "options": ["-1", "-2", "2", "3"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "A boy walks 3 km North and 4 km East. How far is he from his starting point?",
+      "options": ["3 km", "4 km", "5 km", "7 km"],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Find the area of a trapezium with parallel sides 6 cm and 10 cm, and height 4 cm.",
+      "options": ["24 cm²", "32 cm²", "40 cm²", "48 cm²"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Evaluate: 8^(2/3)",
+      "options": ["2", "4", "8", "16"],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Simplify: (3/4) ÷ (9/16)",
+      "options": ["3/4", "4/3", "1/3", "3"],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Find the 10th term of the AP: 2, 5, 8, 11...",
+      "options": ["27", "28", "29", "30"],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "A cone has base radius 3 cm and height 4 cm. Find its slant height.",
+      "options": ["3 cm", "4 cm", "5 cm", "7 cm"],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Solve simultaneously: x + y = 5, 2x - y = 4",
+      "options": ["x=2,y=3", "x=3,y=2", "x=4,y=1", "x=1,y=4"],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The number of diagonals in a hexagon is:",
+      "options": ["6", "8", "9", "12"],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "If log 2 = 0.3010, find log 8.",
+      "options": ["0.6020", "0.9030", "0.8000", "1.2040"],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "What type of triangle has sides 5 cm, 12 cm, and 13 cm?",
+      "options": ["Equilateral", "Isosceles", "Right-angled", "Scalene only"],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "A bag contains 4 red, 5 blue, and 6 green balls. Find P(not blue).",
+      "options": ["1/3", "5/15", "2/3", "1/2"],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Find the equation of the line with gradient 3 and y-intercept -2.",
+      "options": ["y=3x-2", "y=2x-3", "y=-3x+2", "y=3x+2"],
+      "correctIndex": 0,
+      "year": 2022
+    },
+    {
+      "question": "Express 75 as a product of prime factors.",
+      "options": ["3×5²", "3²×5", "3×5³", "5²×3²"],
+      "correctIndex": 0,
+      "year": 2022
+    },
+    {
+      "question": "If 3^(x-1) = 9, find x.",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "A piece of wire is 44 cm long. If bent into a circle, find the radius. (π = 22/7)",
+      "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Evaluate: cos 60° + sin 30°",
+      "options": ["0", "1", "√3/2", "2"],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "If the mean of 5, 8, x, 12, 10 is 9, find x.",
+      "options": ["8", "9", "10", "11"],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Two dice are tossed. Find the probability of getting a sum of 7.",
+      "options": ["1/6", "5/36", "7/36", "1/4"],
+      "correctIndex": 0,
+      "year": 2022
+    },
+    {
+      "question": "The angle in a semicircle is:",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "The total surface area of a cube with side 4 cm is:",
+      "options": ["48 cm²", "64 cm²", "80 cm²", "96 cm²"],
+      "correctIndex": 3,
+      "year": 2022
+    },
+    {
+      "question": "If y = 3x² - 2x + 5, find dy/dx.",
+      "options": ["3x-2", "6x-2", "6x+2", "3x+5"],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Simplify: 2⁵ ÷ 2³ × 2²",
+      "options": ["2²", "2³", "2⁴", "2⁵"],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "If f(x) = 3x² - 2x + 1, find f(2).",
+      "options": ["9", "11", "13", "15"],
+      "correctIndex": 0,
+      "year": 2023
+    },
+    {
+      "question": "A circle has area 154 cm². Find its radius. (π = 22/7)",
+      "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "Simplify: (x² - 9)/(x + 3)",
+      "options": ["x - 3", "x + 3", "x - 9", "x + 9"],
+      "correctIndex": 0,
+      "year": 2023
+    },
+    {
+      "question": "The gradient of a line perpendicular to y = 2x + 1 is:",
+      "options": ["-2", "-1/2", "1/2", "2"],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Evaluate: ³√216",
+      "options": ["4", "5", "6", "8"],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "If P(A) = 0.4 and P(B) = 0.5 and A and B are independent, find P(A∩B).",
+      "options": ["0.1", "0.2", "0.4", "0.9"],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "A student scored 72 out of 90 in a test. What percentage did they score?",
+      "options": ["72%", "78%", "80%", "82%"],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "The exterior angle of a regular polygon is 30°. How many sides does it have?",
+      "options": ["8", "10", "12", "15"],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "Evaluate: log₁₀(0.001)",
+      "options": ["-3", "-2", "-1", "3"],
+      "correctIndex": 0,
+      "year": 2023
+    },
+    {
+      "question": "Find the value of k if 3x² + kx + 3 = 0 has equal roots.",
+      "options": ["±4", "±5", "±6", "±9"],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "Simplify: (2 + √3)(2 - √3)",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 0,
+      "year": 2023
+    },
+    {
+      "question": "What is the value of sin 90° + cos 0°?",
+      "options": ["0", "1", "2", "√2"],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "A man walks 5 km due East then 12 km due North. Find his distance from start.",
+      "options": ["10 km", "11 km", "13 km", "17 km"],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "Simplify: log 6 + log 5 - log 3",
+      "options": ["log 8", "log 10", "log 12", "log 15"],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The angle of elevation of a tower from a point 30m away is 60°. Find the height.",
+      "options": ["30 m", "30√3 m", "60 m", "90 m"],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Simplify: 3^(n+1) - 3^n",
+      "options": ["2×3^n", "3^n", "3×3^n", "2×3^(n+1)"],
+      "correctIndex": 0,
+      "year": 2024
+    },
+    {
+      "question": "The roots of 2x² - 5x + 2 = 0 are:",
+      "options": ["x=1,x=2", "x=½,x=2", "x=-½,x=-2", "x=5,x=2"],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "If the 3rd and 8th terms of an AP are 7 and 22 respectively, find the common difference.",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Find the coefficient of x² in the expansion of (1 + x)⁴.",
+      "options": ["4", "5", "6", "7"],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "If tan α = 5/12, find sin α.",
+      "options": ["5/13", "12/13", "5/12", "13/12"],
+      "correctIndex": 0,
+      "year": 2024
+    },
+    {
+      "question": "The sum of a GP with first term 3, common ratio 2, and 5 terms is:",
+      "options": ["93", "95", "96", "99"],
+      "correctIndex": 0,
+      "year": 2024
+    },
+    {
+      "question": "Evaluate: ⁵C₂",
+      "options": ["5", "8", "10", "15"],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "The lines 3y = 4x + 9 and 4y = 3x - 8 are:",
+      "options": ["Parallel", "Perpendicular", "Coincident", "Intersecting at 45°"],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Evaluate: lim(x→2) (x² - 4)/(x - 2)",
+      "options": ["0", "2", "4", "8"],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "A die is tossed twice. Find the probability that both tosses show even numbers.",
+      "options": ["1/2", "1/3", "1/4", "1/6"],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "Solve: 4x² - 8x = 0",
+      "options": ["x=0,x=2", "x=0,x=-2", "x=1,x=2", "x=2,x=4"],
+      "correctIndex": 0,
+      "year": 2024
+    },
+    {
+      "question": "The angle subtended by an arc at the centre is 140°. Find the angle at the circumference.",
+      "options": ["35°", "60°", "70°", "140°"],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "Simplify: (a + b)² - (a - b)²",
+      "options": ["2ab", "4ab", "2a²", "4a²"],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Find x if 3^(2x) = 81",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "If f(x) = 2x + 3 and g(x) = x², find f(g(2)).",
+      "options": ["7", "9", "11", "13"],
+      "correctIndex": 2,
+      "year": 2025
+    },
+    {
+      "question": "The roots of x² + bx + c = 0 are α and β. Find α² + β² in terms of b and c.",
+      "options": ["b²-2c", "b²+2c", "2b-c", "b-2c"],
+      "correctIndex": 0,
+      "year": 2025
+    },
+    {
+      "question": "Evaluate: d/dx(sin 2x)",
+      "options": ["cos 2x", "2cos 2x", "-2cos 2x", "-cos 2x"],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "The first term of a GP is 1 and the common ratio is 2. Find the 8th term.",
+      "options": ["64", "128", "256", "512"],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Find the distance between points A(1, 2) and B(4, 6).",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 2,
+      "year": 2025
+    },
+    {
+      "question": "Evaluate: ⁸C₃",
+      "options": ["42", "56", "70", "84"],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "A fair coin is tossed 3 times. Find P(at least 2 heads).",
+      "options": ["1/4", "3/8", "1/2", "7/8"],
+      "correctIndex": 2,
+      "year": 2025
+    },
+    {
+      "question": "Find the midpoint of the line joining A(-2, 4) and B(6, -2).",
+      "options": ["(1,2)", "(2,1)", "(4,2)", "(2,4)"],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "The sum to infinity of a GP with first term 3 and common ratio 1/2 is:",
+      "options": ["4", "5", "6", "7"],
+      "correctIndex": 2,
+      "year": 2025
+    },
+    {
+      "question": "Evaluate: lim(x→0) (sin x)/x",
+      "options": ["0", "1", "undefined", "∞"],
+      "correctIndex": 1,
+      "year": 2025
+    }
+  ]
+}

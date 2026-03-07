@@ -1,0 +1,786 @@
+{
+  "subject": "Commerce",
+  "questions": [
+    {
+      "question": "Commerce is best defined as:",
+      "options": [
+        "The study of money and banking",
+        "All activities involved in the exchange of goods and services",
+        "The production of goods only",
+        "The study of international trade only"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is NOT a function of a retailer?",
+      "options": [
+        "Breaking bulk",
+        "Providing credit to consumers",
+        "Manufacturing goods",
+        "Storing goods"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "A wholesaler acts as a link between:",
+      "options": [
+        "Producer and retailer",
+        "Retailer and consumer",
+        "Producer and consumer",
+        "Bank and consumer"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "The document sent by a seller to a buyer showing goods supplied and amounts owed is called:",
+      "options": [
+        "Receipt",
+        "Invoice",
+        "Debit note",
+        "Credit note"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is a function of warehousing?",
+      "options": [
+        "Transporting goods to market",
+        "Stabilising prices by storing surplus goods",
+        "Advertising products",
+        "Providing credit to buyers"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The practice of buying goods on credit and paying later is called:",
+      "options": [
+        "Hire purchase",
+        "Trade credit",
+        "Leasing",
+        "Factoring"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which type of retail outlet sells goods at discounted prices in large quantities?",
+      "options": [
+        "Supermarket",
+        "Department store",
+        "Hypermarket",
+        "Kiosk"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The term 'caveat emptor' means:",
+      "options": [
+        "Let the seller beware",
+        "Let the buyer beware",
+        "Fair trade for all",
+        "Price is fixed"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "A bill of lading is a document used in:",
+      "options": [
+        "Retail trade",
+        "Hire purchase",
+        "Sea transport of goods",
+        "Stock exchange transactions"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is an example of a home trade?",
+      "options": [
+        "Exporting cocoa to Britain",
+        "Importing cars from Japan",
+        "Buying yam in Lagos market",
+        "Selling crude oil to China"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The Stock Exchange is a market for:",
+      "options": [
+        "Agricultural produce",
+        "Buying and selling of shares and securities",
+        "Foreign currencies",
+        "Consumer goods"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Insurance is based on the principle of:",
+      "options": [
+        "Profit maximisation",
+        "Risk pooling and compensation for loss",
+        "Saving money in a bank",
+        "Borrowing at low interest"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is a feature of a sole proprietorship?",
+      "options": [
+        "Unlimited liability",
+        "Separation of ownership and management",
+        "Perpetual succession",
+        "Limited liability"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "A cooperative society is formed primarily to:",
+      "options": [
+        "Maximise profit for shareholders",
+        "Provide mutual assistance and benefits to members",
+        "Compete with large corporations",
+        "Avoid paying taxes"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which document invites the public to buy shares in a company?",
+      "options": [
+        "Memorandum of Association",
+        "Articles of Association",
+        "Prospectus",
+        "Certificate of Incorporation"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The main function of a central bank is to:",
+      "options": [
+        "Accept deposits from the public",
+        "Issue currency and control monetary policy",
+        "Grant loans to individuals",
+        "Sell consumer goods"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following best describes entrepot trade?",
+      "options": [
+        "Buying goods locally and selling abroad",
+        "Importing goods and re-exporting them to other countries",
+        "Manufacturing goods for export",
+        "Buying raw materials from abroad"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "A cheque that can only be paid into a bank account is called a:",
+      "options": [
+        "Open cheque",
+        "Crossed cheque",
+        "Bearer cheque",
+        "Stale cheque"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The term 'franchise' in business means:",
+      "options": [
+        "A type of cooperative",
+        "A licence to operate a business using another company's brand",
+        "A government-owned business",
+        "A type of partnership"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is NOT a channel of distribution?",
+      "options": [
+        "Wholesaler",
+        "Retailer",
+        "Agent",
+        "Manufacturer"
+      ],
+      "correctIndex": 3,
+      "year": 2020
+    },
+    {
+      "question": "E-commerce refers to:",
+      "options": [
+        "Electronic manufacturing",
+        "Buying and selling of goods and services over the internet",
+        "Banking by phone only",
+        "Stock exchange trading"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "A public limited company is denoted by:",
+      "options": [
+        "Ltd",
+        "PLC",
+        "Co.",
+        "Inc."
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which type of insurance covers loss of goods in transit?",
+      "options": [
+        "Life insurance",
+        "Fire insurance",
+        "Marine insurance",
+        "Motor insurance"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The minimum number of members required to form a private limited company in Nigeria is:",
+      "options": [
+        "1",
+        "2",
+        "7",
+        "20"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "Advertising is a form of:",
+      "options": [
+        "Production",
+        "Distribution",
+        "Sales promotion",
+        "Storage"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The document that contains the rules governing the internal management of a company is the:",
+      "options": [
+        "Memorandum of Association",
+        "Articles of Association",
+        "Prospectus",
+        "Certificate of Trading"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is an advantage of a partnership over a sole proprietorship?",
+      "options": [
+        "Unlimited liability for all partners",
+        "More capital can be raised",
+        "Easier decision-making",
+        "No legal formalities"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "A debenture is:",
+      "options": [
+        "A share in a company",
+        "A loan certificate issued by a company",
+        "A type of cheque",
+        "A government bond only"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The term 'indent' in foreign trade refers to:",
+      "options": [
+        "An export document",
+        "An order placed by an importer with a foreign exporter",
+        "A shipping document",
+        "A customs clearance form"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is a disadvantage of a public limited company?",
+      "options": [
+        "Limited liability for shareholders",
+        "Difficult to raise capital",
+        "Too much legal regulation and disclosure requirements",
+        "Cannot sell shares to the public"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "A dormant partner in a business:",
+      "options": [
+        "Actively manages the business",
+        "Contributes capital but takes no active part in management",
+        "Has limited liability only",
+        "Is always a sleeping partner with no capital"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is a function of commercial banks?",
+      "options": [
+        "Issuing currency",
+        "Setting the official interest rate",
+        "Accepting deposits and granting loans",
+        "Regulating all financial institutions"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "The document that shows the net amount payable after deducting trade discount is the:",
+      "options": [
+        "Invoice",
+        "Receipt",
+        "Statement of account",
+        "Credit note"
+      ],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is NOT a method of sales promotion?",
+      "options": [
+        "Free samples",
+        "Coupons",
+        "Price reduction",
+        "Raising interest rates"
+      ],
+      "correctIndex": 3,
+      "year": 2021
+    },
+    {
+      "question": "The term 'bonded warehouse' refers to a warehouse where:",
+      "options": [
+        "Perishable goods are stored in cold temperatures",
+        "Imported goods are stored before customs duties are paid",
+        "Government stores strategic reserves",
+        "Manufacturers store finished goods"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following correctly defines 'utility' in commerce?",
+      "options": [
+        "The profit earned from selling goods",
+        "The satisfaction derived from a good or service",
+        "The cost of producing a good",
+        "The tax paid on goods"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "A hire purchase agreement differs from credit sale in that under hire purchase:",
+      "options": [
+        "Ownership passes immediately to the buyer",
+        "The buyer pays in full before taking possession",
+        "Ownership passes only when the final instalment is paid",
+        "No interest is charged"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is an example of indirect tax?",
+      "options": [
+        "Income tax",
+        "Company tax",
+        "Capital gains tax",
+        "Value Added Tax (VAT)"
+      ],
+      "correctIndex": 3,
+      "year": 2021
+    },
+    {
+      "question": "The term 'cartel' refers to:",
+      "options": [
+        "A type of retail outlet",
+        "An association of competing firms that agree to fix prices and output",
+        "A government trade monopoly",
+        "A consumer protection group"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which type of business organisation has the most complex legal formation requirements?",
+      "options": [
+        "Sole proprietorship",
+        "Partnership",
+        "Private limited company",
+        "Public limited company"
+      ],
+      "correctIndex": 3,
+      "year": 2021
+    },
+    {
+      "question": "A letter of credit is a document used in international trade to:",
+      "options": [
+        "List the contents of a shipment",
+        "Guarantee payment to an exporter by a bank",
+        "Clear goods through customs",
+        "Insure goods in transit"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is a merit of self-service retailing?",
+      "options": [
+        "Personal attention to customers",
+        "High staffing costs",
+        "Reduced operating costs and faster service",
+        "Limited product range"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "The difference between the buying price and selling price of a good is called:",
+      "options": [
+        "Profit",
+        "Mark-up",
+        "Gross margin",
+        "Net profit"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is NOT a feature of a public corporation?",
+      "options": [
+        "Owned by the government",
+        "Established by an Act of Parliament",
+        "Profit maximisation is the primary goal",
+        "Provides essential public services"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "In Nigeria, NAFDAC is responsible for:",
+      "options": [
+        "Regulating the capital market",
+        "Controlling food, drugs, and consumer product safety",
+        "Managing the foreign exchange market",
+        "Regulating the banking sector"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which document is issued to a shareholder as proof of ownership of shares?",
+      "options": [
+        "Debenture certificate",
+        "Share certificate",
+        "Dividend warrant",
+        "Prospectus"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The principle of subrogation in insurance means:",
+      "options": [
+        "The insured cannot profit from a claim",
+        "After paying a claim, the insurer takes over the insured's rights against third parties",
+        "Both parties must act in good faith",
+        "The insured must have an interest in what is insured"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is a feature of a supermarket?",
+      "options": [
+        "Personalised service",
+        "Very small floor space",
+        "Self-service and wide product range",
+        "Specialises in one type of product"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Dumping in international trade refers to:",
+      "options": [
+        "Disposing of waste products abroad",
+        "Selling goods in a foreign market below cost price to undercut local producers",
+        "Refusing to import goods from certain countries",
+        "Over-invoicing exports to earn more foreign exchange"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "A trade association is an organisation formed by:",
+      "options": [
+        "Consumers to protect their rights",
+        "Businesses in the same industry to promote common interests",
+        "The government to regulate trade",
+        "Workers in a particular industry"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is a function of the Nigeria Customs Service?",
+      "options": [
+        "Issuing currency",
+        "Collecting import and export duties",
+        "Regulating the stock market",
+        "Controlling banking activities"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The term 'goodwill' in business refers to:",
+      "options": [
+        "Free goods given to customers",
+        "The reputation and customer loyalty that adds value to a business beyond its physical assets",
+        "A type of partnership agreement",
+        "Government subsidy to businesses"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following is an example of tertiary industry?",
+      "options": [
+        "Farming",
+        "Mining",
+        "Manufacturing",
+        "Banking"
+      ],
+      "correctIndex": 3,
+      "year": 2023
+    },
+    {
+      "question": "A pro-forma invoice is sent:",
+      "options": [
+        "After goods have been delivered",
+        "Before goods are dispatched, to show the price and terms",
+        "As a final demand for payment",
+        "As proof of payment received"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The term 'amalgamation' means:",
+      "options": [
+        "One company taking over another",
+        "Two or more companies merging to form a new single company",
+        "A company splitting into smaller units",
+        "A company going public"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": [
+        "Informing consumers about products",
+        "Persuading consumers to buy",
+        "Reminding consumers about products",
+        "Fixing prices of products"
+      ],
+      "correctIndex": 3,
+      "year": 2023
+    },
+    {
+      "question": "The document that authorises a customs officer to release imported goods is the:",
+      "options": [
+        "Bill of lading",
+        "Certificate of origin",
+        "Import duty receipt / entry form",
+        "Packing list"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following is a demerit of cooperative societies?",
+      "options": [
+        "Democratic management",
+        "Limited capital due to small member contributions",
+        "Mutual benefit for members",
+        "Government support"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The term 'market segmentation' refers to:",
+      "options": [
+        "Dividing the market into different geographic locations",
+        "Dividing consumers into groups with similar characteristics to target them specifically",
+        "Setting different prices for different products",
+        "Advertising in different media simultaneously"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following best describes 'economies of scale'?",
+      "options": [
+        "Cost disadvantages as output increases",
+        "Cost advantages gained as production volume increases",
+        "Government subsidies to large firms",
+        "Reduction in workforce to cut costs"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "A credit note is issued by a seller to a buyer when:",
+      "options": [
+        "The buyer owes more money than invoiced",
+        "Goods have been returned or overcharged",
+        "The buyer requests a discount",
+        "Payment has been received in full"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of the following is a feature of monopolistic competition?",
+      "options": [
+        "Homogeneous products",
+        "A single seller",
+        "Many sellers with differentiated products",
+        "Perfect information"
+      ],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "The term 'logistics' in commerce refers to:",
+      "options": [
+        "The study of business law",
+        "The planning and management of the flow of goods from origin to consumer",
+        "Advertising and marketing strategies",
+        "Financial management of a business"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of the following is an advantage of e-commerce?",
+      "options": [
+        "Limited market reach",
+        "High infrastructure cost always",
+        "24/7 availability and global market reach",
+        "Personal customer interaction"
+      ],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "The Consumer Protection Council (CPC) in Nigeria protects consumers from:",
+      "options": [
+        "High taxation",
+        "Unfair trade practices, substandard goods, and false advertising",
+        "Foreign competition",
+        "Government price controls"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Which of the following correctly defines 'insurable interest'?",
+      "options": [
+        "The amount of insurance premium paid",
+        "The legal right to insure something because its loss would cause financial harm to the insured",
+        "The total value of goods insured",
+        "The profit made from an insurance claim"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Supply chain management involves:",
+      "options": [
+        "Only the production of goods",
+        "Managing the entire flow of goods and information from raw material suppliers to final consumers",
+        "Only the distribution of finished goods",
+        "Only inventory management"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Which of the following is a disadvantage of itinerant traders?",
+      "options": [
+        "Low overhead costs",
+        "Ability to reach customers in different locations",
+        "Lack of permanent business address and limited credit facilities",
+        "Flexibility of operation"
+      ],
+      "correctIndex": 2,
+      "year": 2025
+    },
+    {
+      "question": "The term 'factoring' in business finance refers to:",
+      "options": [
+        "Breaking production into specialised tasks",
+        "Selling accounts receivable (debts owed) to a third party at a discount for immediate cash",
+        "A type of hire purchase agreement",
+        "Government financing of small businesses"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Which of the following is a function of the Securities and Exchange Commission (SEC) in Nigeria?",
+      "options": [
+        "Issuing currency",
+        "Regulating the capital market and protecting investors",
+        "Controlling import duties",
+        "Managing government expenditure"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "The term 'brand loyalty' refers to:",
+      "options": [
+        "A consumer's consistent preference for one brand over competitors",
+        "A company owning multiple brands",
+        "Government protection of local brands",
+        "The legal registration of a brand name"
+      ],
+      "correctIndex": 0,
+      "year": 2025
+    }
+  ]
+}

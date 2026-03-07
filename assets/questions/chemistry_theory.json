@@ -1,0 +1,60 @@
+{
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "question": "Calculate the percentage composition by mass of each element in calcium carbonate (CaCO₃).\n(Ca=40, C=12, O=16)",
+      "answer": "Molar mass of CaCO₃ = 40 + 12 + (3×16) = 40 + 12 + 48 = 100 g/mol\n\n% Ca = (40/100) × 100 = 40%\n\n% C = (12/100) × 100 = 12%\n\n% O = (48/100) × 100 = 48%\n\nCheck: 40 + 12 + 48 = 100% ✓",
+      "year": 2020
+    },
+    {
+      "question": "Explain the difference between ionic bonding and covalent bonding. Give one example of each and describe the properties of the resulting compounds.",
+      "answer": "Ionic Bonding: Transfer of electrons from a metal to a non-metal atom, forming oppositely charged ions that attract each other electrostatically.\nExample: NaCl (Sodium chloride) — Na loses one electron to form Na⁺, Cl gains one electron to form Cl⁻.\nProperties: High melting point, conducts electricity when molten or dissolved, usually soluble in water.\n\nCovalent Bonding: Sharing of electrons between two non-metal atoms.\nExample: H₂O (Water) — each hydrogen shares one electron with oxygen.\nProperties: Usually low melting point, generally does not conduct electricity, may be soluble or insoluble in water.",
+      "year": 2020
+    },
+    {
+      "question": "25 cm³ of 0.1 mol/dm³ sodium hydroxide (NaOH) solution is neutralised by hydrochloric acid (HCl).\n(a) Write a balanced equation for the reaction.\n(b) Calculate the number of moles of NaOH used.\n(c) Find the number of moles of HCl required.\n(d) If the volume of HCl used is 20 cm³, find its concentration.",
+      "answer": "(a) NaOH + HCl → NaCl + H₂O\n\n(b) Moles of NaOH = concentration × volume(dm³)\n= 0.1 × (25/1000)\n= 0.0025 mol\n\n(c) From the equation, mole ratio NaOH:HCl = 1:1\n∴ Moles of HCl = 0.0025 mol\n\n(d) Concentration of HCl = moles / volume(dm³)\n= 0.0025 / (20/1000)\n= 0.0025 / 0.02\n= 0.125 mol/dm³",
+      "year": 2020
+    },
+    {
+      "question": "Describe the industrial manufacture of ammonia by the Haber Process.\n(a) Write the equation for the reaction.\n(b) State the conditions used.\n(c) Explain why a compromise temperature is used.\n(d) State two uses of ammonia.",
+      "answer": "(a) N₂(g) + 3H₂(g) ⇌ 2NH₃(g) ΔH = -92 kJ/mol\n\n(b) Conditions:\n• Temperature: 450°C (compromise)\n• Pressure: 200 atmospheres (high)\n• Catalyst: Iron (with promoters K₂O and Al₂O₃)\n\n(c) The reaction is exothermic. Low temperature favours more ammonia (higher yield) but the reaction is too slow. High temperature makes reaction faster but gives lower yield. 450°C is a compromise — a reasonable yield at an acceptable rate.\n\n(d) Uses of ammonia:\n• Manufacture of fertilisers (e.g. ammonium nitrate)\n• Manufacture of nitric acid (Ostwald process)",
+      "year": 2020
+    },
+    {
+      "question": "An organic compound contains 40% carbon, 6.67% hydrogen, and 53.33% oxygen by mass.\n(a) Find the empirical formula. (C=12, H=1, O=16)\n(b) If the molar mass is 180 g/mol, find the molecular formula.",
+      "answer": "(a) Divide by atomic mass:\nC: 40/12 = 3.33\nH: 6.67/1 = 6.67\nO: 53.33/16 = 3.33\n\nDivide by smallest (3.33):\nC: 3.33/3.33 = 1\nH: 6.67/3.33 = 2\nO: 3.33/3.33 = 1\n\nEmpirical formula = CH₂O\nEmpirical formula mass = 12 + 2 + 16 = 30 g/mol\n\n(b) n = Molar mass / Empirical formula mass\n= 180/30 = 6\n\nMolecular formula = (CH₂O)₆ = C₆H₁₂O₆ (Glucose)",
+      "year": 2020
+    },
+    {
+      "question": "Explain the process of electrolysis of brine (concentrated sodium chloride solution).\n(a) Write the half-equations at each electrode.\n(b) Name the product at each electrode.\n(c) State two industrial uses of the products.",
+      "answer": "(a) At Cathode (reduction):\n2H⁺(aq) + 2e⁻ → H₂(g)\n\nAt Anode (oxidation):\n2Cl⁻(aq) → Cl₂(g) + 2e⁻\n\nIn solution: Na⁺ and OH⁻ remain → NaOH solution\n\n(b) Cathode: Hydrogen gas (H₂)\nAnode: Chlorine gas (Cl₂)\nRemaining solution: Sodium hydroxide (NaOH)\n\n(c) Uses:\nChlorine: Water purification, manufacture of PVC, bleaching agent\nHydrogen: Manufacture of ammonia (Haber process), fuel cells\nSodium hydroxide: Soap making, paper production",
+      "year": 2021
+    },
+    {
+      "question": "Using Le Chatelier's principle, explain the effect of the following changes on the equilibrium:\nN₂(g) + 3H₂(g) ⇌ 2NH₃(g) ΔH = -92 kJ/mol\n(a) Increasing temperature\n(b) Increasing pressure\n(c) Adding a catalyst",
+      "answer": "(a) Increasing temperature:\nThe equilibrium shifts LEFT (towards reactants) because the reaction is exothermic. The system opposes the increase in temperature by absorbing heat, which means the reverse (endothermic) reaction is favoured. Yield of NH₃ decreases.\n\n(b) Increasing pressure:\nThe equilibrium shifts RIGHT (towards products) because there are 4 moles of gas on the left (1+3) and only 2 moles on the right. The system opposes the increase in pressure by reducing the number of gas molecules. Yield of NH₃ increases.\n\n(c) Adding a catalyst:\nA catalyst does NOT shift the equilibrium position. It only increases the RATE at which equilibrium is reached by providing an alternative pathway with lower activation energy. The yield of NH₃ remains the same.",
+      "year": 2022
+    },
+    {
+      "question": "Describe the Contact Process for the manufacture of sulphuric acid.\n(a) Write equations for each stage.\n(b) State the conditions for Stage 2.\n(c) Explain why SO₃ is not dissolved directly in water.",
+      "answer": "(a) Stage 1 — Burning sulphur:\nS(s) + O₂(g) → SO₂(g)\n\nStage 2 — Oxidation of SO₂:\n2SO₂(g) + O₂(g) ⇌ 2SO₃(g)\n\nStage 3 — Absorption:\nSO₃(g) + H₂SO₄(l) → H₂S₂O₇(l) [oleum]\n\nStage 4 — Dilution:\nH₂S₂O₇(l) + H₂O(l) → 2H₂SO₄(l)\n\n(b) Conditions for Stage 2:\n• Temperature: 450°C\n• Pressure: 1-2 atmospheres\n• Catalyst: Vanadium(V) oxide (V₂O₅)\n\n(c) Dissolving SO₃ directly in water is extremely exothermic and produces a dangerous, highly corrosive acid mist that is difficult to control. Instead, SO₃ is absorbed in concentrated H₂SO₄ to form oleum, which is then carefully diluted.",
+      "year": 2023
+    },
+    {
+      "question": "Explain the terms oxidation and reduction in terms of electron transfer. For the reaction:\nZn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s)\n(a) Identify what is oxidised and what is reduced.\n(b) Write the two half-equations.\n(c) Identify the oxidising agent and reducing agent.",
+      "answer": "Oxidation: Loss of electrons (OIL — Oxidation Is Loss)\nReduction: Gain of electrons (RIG — Reduction Is Gain)\n\n(a) Zinc (Zn) is OXIDISED — it loses electrons and its oxidation state increases from 0 to +2.\nCopper ions (Cu²⁺) are REDUCED — they gain electrons and their oxidation state decreases from +2 to 0.\n\n(b) Oxidation half-equation: Zn → Zn²⁺ + 2e⁻\nReduction half-equation: Cu²⁺ + 2e⁻ → Cu\n\n(c) Oxidising agent: CuSO₄ (Cu²⁺) — it accepts electrons from zinc, causing zinc to be oxidised.\nReducing agent: Zn — it donates electrons to Cu²⁺, causing copper to be reduced.",
+      "year": 2024
+    },
+    {
+      "question": "Describe the preparation, properties, and uses of chlorine gas in the laboratory and industry.\n(a) Write the equation for laboratory preparation.\n(b) Describe two chemical properties of chlorine.\n(c) State three industrial uses.",
+      "answer": "(a) Laboratory preparation:\nCl₂ is prepared by oxidising concentrated HCl with manganese(IV) oxide:\nMnO₂(s) + 4HCl(aq) → MnCl₂(aq) + 2H₂O(l) + Cl₂(g)\n\n(b) Chemical properties:\n1. Chlorine reacts with water to form hydrochloric acid and hypochlorous acid:\nCl₂ + H₂O ⇌ HCl + HOCl\nHOCl is the bleaching agent.\n\n2. Chlorine displaces bromine and iodine from their salt solutions (halogen displacement):\nCl₂ + 2KBr → 2KCl + Br₂\n\n(c) Industrial uses:\n1. Water purification — kills bacteria and pathogens\n2. Manufacture of PVC (polyvinyl chloride) plastic\n3. Production of bleaching powder and household bleach\n4. Manufacture of pesticides and pharmaceuticals",
+      "year": 2025
+    },
+    {
+      "question": "A sample of hydrocarbon burns completely in excess oxygen according to:\nCₙHₘ + O₂ → CO₂ + H₂O\n0.5 g of the hydrocarbon produces 1.65 g of CO₂ and 0.675 g of H₂O.\n(a) Find the mass of carbon and hydrogen in the sample.\n(b) Find the empirical formula.\n(c) If the molar mass is 44 g/mol, find the molecular formula. (C=12, H=1, O=16)",
+      "answer": "(a) Mass of C:\n1 mol CO₂ (44g) contains 1 mol C (12g)\nMass of C = (12/44) × 1.65 = 0.45 g\n\nMass of H:\n1 mol H₂O (18g) contains 2 mol H (2g)\nMass of H = (2/18) × 0.675 = 0.075 g\n\nCheck: 0.45 + 0.075 = 0.525g ≠ 0.5g (rounding difference)\n\n(b) Moles of C = 0.45/12 = 0.0375\nMoles of H = 0.075/1 = 0.075\nRatio C:H = 0.0375 : 0.075 = 1 : 2\nEmpirical formula = CH₂\n\n(c) Empirical mass = 12 + 2 = 14\nn = 44/14 ≈ 3\nMolecular formula = C₃H₆ (Propene/Cyclopropane)",
+      "year": 2025
+    }
+  ]
+}

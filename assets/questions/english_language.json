@@ -1,0 +1,852 @@
+{
+  "subject": "English Language",
+  "questions": [
+    {
+      "question": "Choose the option that best completes the sentence: The students ______ already submitted their assignments before the teacher arrived.",
+      "options": [
+        "have",
+        "had",
+        "has",
+        "were"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "In the sentence 'The tall man in the blue suit is my uncle', the phrase 'in the blue suit' is:",
+      "options": [
+        "An adverbial phrase",
+        "A noun phrase",
+        "An adjectival phrase",
+        "A prepositional phrase modifying the verb"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Choose the word that is nearest in meaning to BENEVOLENT:",
+      "options": [
+        "Hostile",
+        "Generous",
+        "Selfish",
+        "Aggressive"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Choose the word that is opposite in meaning to FRUGAL:",
+      "options": [
+        "Careful",
+        "Thrifty",
+        "Extravagant",
+        "Economical"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Identify the figure of speech in: 'The pen is mightier than the sword':",
+      "options": [
+        "Simile",
+        "Personification",
+        "Metaphor",
+        "Hyperbole"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following sentences is correctly punctuated?",
+      "options": [
+        "The boy who won the prize is my brother.",
+        "The boy, who won the prize is my brother.",
+        "The boy who won the prize, is my brother.",
+        "The boy who, won the prize is my brother."
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "In the word 'photograph', the stress falls on:",
+      "options": [
+        "The first syllable: PHO-to-graph",
+        "The second syllable: pho-TO-graph",
+        "The third syllable: pho-to-GRAPH",
+        "All syllables equally"
+      ],
+      "correctIndex": 0,
+      "year": 2020
+    },
+    {
+      "question": "Choose the option that best explains the expression: 'to beat about the bush'",
+      "options": [
+        "To search in a forest",
+        "To avoid coming to the point directly",
+        "To fight someone in a garden",
+        "To work very hard"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "The plural of 'criterion' is:",
+      "options": [
+        "Criterions",
+        "Criterias",
+        "Criteria",
+        "Criteries"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Choose the sentence with the correct use of the apostrophe:",
+      "options": [
+        "The childrens' toys were scattered.",
+        "The children's toys were scattered.",
+        "The childrens toys' were scattered.",
+        "The childrens toys were scattered."
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Which of the following is a compound sentence?",
+      "options": [
+        "Although it was raining, he went out.",
+        "He went out despite the rain.",
+        "It was raining but he went out.",
+        "He went out in the rain."
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The word 'INGENIOUS' means:",
+      "options": [
+        "Honest and sincere",
+        "Clever and inventive",
+        "Innocent and naive",
+        "Ignorant and foolish"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "In the sentence 'She was given a book by her teacher', the subject is:",
+      "options": [
+        "Teacher",
+        "Book",
+        "She",
+        "Given"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Accomodation",
+        "Acommodation",
+        "Accommodation",
+        "Acomodation"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The rhetorical question is used mainly to:",
+      "options": [
+        "Seek information from the listener",
+        "Make a strong statement without expecting an answer",
+        "Express doubt and confusion",
+        "Request clarification politely"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Choose the option that best completes: The principal as well as the teachers ______ present at the ceremony.",
+      "options": [
+        "were",
+        "are",
+        "is",
+        "have been"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Identify the type of clause in: 'what she said was untrue':",
+      "options": [
+        "Adverbial clause",
+        "Relative clause",
+        "Noun clause",
+        "Adjectival clause"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "The word 'LOQUACIOUS' means:",
+      "options": [
+        "Very quiet",
+        "Very talkative",
+        "Very intelligent",
+        "Very aggressive"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "Choose the option with the correct form of the verb: Neither the boys nor the girl ______ attended the meeting.",
+      "options": [
+        "have",
+        "has",
+        "had not",
+        "were"
+      ],
+      "correctIndex": 1,
+      "year": 2020
+    },
+    {
+      "question": "In phonetics, the symbol /ɔː/ represents the vowel sound in:",
+      "options": [
+        "hat",
+        "bit",
+        "thought",
+        "cut"
+      ],
+      "correctIndex": 2,
+      "year": 2020
+    },
+    {
+      "question": "Choose the word nearest in meaning to OSTENTATIOUS:",
+      "options": [
+        "Humble",
+        "Showy",
+        "Modest",
+        "Quiet"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The figure of speech in 'The stars danced in the sky' is:",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Alliteration"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Choose the option that correctly rewrites the sentence in reported speech: She said, 'I am coming tomorrow'.",
+      "options": [
+        "She said she is coming the next day.",
+        "She said she was coming the following day.",
+        "She said she will come tomorrow.",
+        "She said she comes the next day."
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following sentences contains a dangling modifier?",
+      "options": [
+        "Running fast, the bus was caught by Emeka.",
+        "Running fast, Emeka caught the bus.",
+        "Emeka, running fast, caught the bus.",
+        "Emeka ran fast and caught the bus."
+      ],
+      "correctIndex": 0,
+      "year": 2021
+    },
+    {
+      "question": "The word 'EPHEMERAL' means:",
+      "options": [
+        "Lasting forever",
+        "Very large",
+        "Short-lived or temporary",
+        "Very important"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "Identify the part of speech of the underlined word: 'He speaks VERY slowly':",
+      "options": [
+        "Adjective",
+        "Adverb modifying slowly",
+        "Adverb modifying speaks",
+        "Intensifier modifying an adverb"
+      ],
+      "correctIndex": 3,
+      "year": 2021
+    },
+    {
+      "question": "Choose the option that best completes: I wish I ______ more time to finish the work.",
+      "options": [
+        "have",
+        "had",
+        "will have",
+        "would have"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The passive voice of 'The teacher punished the students' is:",
+      "options": [
+        "The students are punished by the teacher.",
+        "The students were punished by the teacher.",
+        "The students have been punished by the teacher.",
+        "The students had been punished by the teacher."
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "A word that imitates the sound it represents is called:",
+      "options": [
+        "Alliteration",
+        "Onomatopoeia",
+        "Assonance",
+        "Euphemism"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which of the following is an example of a complex sentence?",
+      "options": [
+        "She sang and he danced.",
+        "She sang while he played the guitar.",
+        "She sang beautifully.",
+        "She sang; he danced."
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Questionaire",
+        "Questionnaire",
+        "Questionare",
+        "Questionair"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The antonym of INDIGENOUS is:",
+      "options": [
+        "Native",
+        "Local",
+        "Foreign",
+        "Traditional"
+      ],
+      "correctIndex": 2,
+      "year": 2021
+    },
+    {
+      "question": "In the sentence 'He is too tired to work', 'to work' is:",
+      "options": [
+        "A gerund",
+        "An infinitive used as an adverb",
+        "A participle",
+        "An infinitive used as a noun"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "The word 'TACITURN' describes a person who is:",
+      "options": [
+        "Very talkative",
+        "Habitually silent or reserved",
+        "Extremely generous",
+        "Easily angered"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Choose the option that best explains the idiom: 'to burn the midnight oil':",
+      "options": [
+        "To waste energy",
+        "To work or study late into the night",
+        "To cause destruction by fire",
+        "To be extravagant with resources"
+      ],
+      "correctIndex": 1,
+      "year": 2021
+    },
+    {
+      "question": "Which sentence uses the subjunctive mood correctly?",
+      "options": [
+        "If I was you, I would apologise.",
+        "If I were you, I would apologise.",
+        "If I am you, I would apologise.",
+        "If I be you, I would apologise."
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The synonym of VERBOSE is:",
+      "options": [
+        "Concise",
+        "Wordy",
+        "Silent",
+        "Polite"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Choose the sentence with the correct relative pronoun:",
+      "options": [
+        "The man which called is my father.",
+        "The man who called is my father.",
+        "The man whom called is my father.",
+        "The man whose called is my father."
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "In the word 'PHOTOGRAPHER', the primary stress is on:",
+      "options": [
+        "PHO-to-gra-pher",
+        "pho-TO-gra-pher",
+        "pho-to-GRA-pher",
+        "pho-to-gra-PHER"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The figure of speech in 'She has a heart of stone' is:",
+      "options": [
+        "Simile",
+        "Personification",
+        "Metaphor",
+        "Hyperbole"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Choose the option that correctly replaces the underlined: 'Between you and I, the plan will fail':",
+      "options": [
+        "Between you and me",
+        "Between you and myself",
+        "Between us two",
+        "Between yourself and me"
+      ],
+      "correctIndex": 0,
+      "year": 2022
+    },
+    {
+      "question": "The word AMBIGUOUS means:",
+      "options": [
+        "Clear and direct",
+        "Having more than one possible meaning",
+        "Very complicated",
+        "Dishonest"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "A sentence that gives a command or instruction is called:",
+      "options": [
+        "Declarative",
+        "Interrogative",
+        "Imperative",
+        "Exclamatory"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Choose the option nearest in meaning to GREGARIOUS:",
+      "options": [
+        "Solitary",
+        "Sociable and fond of company",
+        "Aggressive",
+        "Timid"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "The expression 'the early bird catches the worm' means:",
+      "options": [
+        "Birds are more active in the morning",
+        "Those who start early or act promptly gain an advantage",
+        "Worms are only found early in the morning",
+        "One should always wake up early"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "In phonetics, consonants produced by the lips are called:",
+      "options": [
+        "Alveolar consonants",
+        "Velar consonants",
+        "Labial consonants",
+        "Dental consonants"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "Choose the option that best completes: By the time we arrived, the food ______ finished.",
+      "options": [
+        "was",
+        "is",
+        "had been",
+        "has been"
+      ],
+      "correctIndex": 2,
+      "year": 2022
+    },
+    {
+      "question": "The word PHLEGMATIC describes a person who is:",
+      "options": [
+        "Easily excited",
+        "Calm and not easily disturbed",
+        "Very aggressive",
+        "Extremely talkative"
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Which of the following is an example of alliteration?",
+      "options": [
+        "The cat sat on the mat.",
+        "Peter Piper picked a peck of pickled peppers.",
+        "She is as tall as a giraffe.",
+        "The wind howled through the trees."
+      ],
+      "correctIndex": 1,
+      "year": 2022
+    },
+    {
+      "question": "Choose the option with correct subject-verb agreement: Each of the students ______ required to submit a project.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have been"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "The antonym of METICULOUS is:",
+      "options": [
+        "Careful",
+        "Thorough",
+        "Careless",
+        "Precise"
+      ],
+      "correctIndex": 2,
+      "year": 2023
+    },
+    {
+      "question": "Identify the figure of speech: 'It was raining cats and dogs':",
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Hyperbole",
+        "Idiom/Hyperbole"
+      ],
+      "correctIndex": 3,
+      "year": 2023
+    },
+    {
+      "question": "Choose the option that best completes: He ______ to school every day before he got a car.",
+      "options": [
+        "walks",
+        "walked",
+        "has walked",
+        "had walked"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "In phonology, minimal pairs are words that:",
+      "options": [
+        "Have the same meaning",
+        "Differ in only one sound and have different meanings",
+        "Rhyme with each other",
+        "Have the same spelling but different pronunciation"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The word PERFIDIOUS means:",
+      "options": [
+        "Loyal and trustworthy",
+        "Treacherous and disloyal",
+        "Very intelligent",
+        "Extremely generous"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Choose the option that correctly completes: The jury ______ divided in their opinion.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has been"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "A malapropism is the mistaken use of:",
+      "options": [
+        "A word for its opposite",
+        "A word that sounds similar to another but has a different meaning",
+        "Excessive punctuation",
+        "Foreign words in English"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "The expression 'to smell a rat' means:",
+      "options": [
+        "To notice a bad odour",
+        "To suspect that something dishonest is happening",
+        "To discover a rodent infestation",
+        "To be very sensitive to smells"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Choose the word nearest in meaning to SAGACIOUS:",
+      "options": [
+        "Foolish",
+        "Wise and having good judgement",
+        "Lazy",
+        "Aggressive"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "In the sentence 'Swimming is her favourite hobby', 'swimming' is a:",
+      "options": [
+        "Present participle",
+        "Gerund (verbal noun)",
+        "Infinitive",
+        "Adjective"
+      ],
+      "correctIndex": 1,
+      "year": 2023
+    },
+    {
+      "question": "Which of the following contains a split infinitive?",
+      "options": [
+        "To run quickly is not easy.",
+        "She decided to quickly run to the shop.",
+        "Running quickly, she reached the bus stop.",
+        "She ran to the shop quickly."
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The word ENERVATE means:",
+      "options": [
+        "To energise",
+        "To weaken or drain of energy",
+        "To encourage strongly",
+        "To make angry"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Choose the option that best completes: No sooner ______ he arrived than the meeting began.",
+      "options": [
+        "did",
+        "has",
+        "had",
+        "was"
+      ],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "Identify the sentence type: 'What a beautiful sunrise!'",
+      "options": [
+        "Declarative",
+        "Interrogative",
+        "Imperative",
+        "Exclamatory"
+      ],
+      "correctIndex": 3,
+      "year": 2024
+    },
+    {
+      "question": "The antonym of BELLIGERENT is:",
+      "options": [
+        "Warlike",
+        "Hostile",
+        "Peaceful",
+        "Aggressive"
+      ],
+      "correctIndex": 2,
+      "year": 2024
+    },
+    {
+      "question": "In the word 'CONTROVERSY', the stress in British English falls on:",
+      "options": [
+        "con-TRO-ver-sy",
+        "CON-tro-ver-sy",
+        "con-tro-VER-sy",
+        "con-tro-ver-SY"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Choose the correctly punctuated sentence:",
+      "options": [
+        "However he refused to leave.",
+        "However, he refused to leave.",
+        "However he, refused to leave.",
+        "However he refused, to leave."
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "The word NONCHALANT describes someone who is:",
+      "options": [
+        "Very excited and enthusiastic",
+        "Casually calm and apparently unconcerned",
+        "Extremely worried",
+        "Very aggressive"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "Choose the option that correctly identifies the error: 'One of my friends have lost their phone':",
+      "options": [
+        "'One' should be 'ones'",
+        "'have' should be 'has' — the subject is 'one'",
+        "'their' should be 'his'",
+        "No error in the sentence"
+      ],
+      "correctIndex": 1,
+      "year": 2024
+    },
+    {
+      "question": "An oxymoron is a figure of speech that:",
+      "options": [
+        "Uses exaggeration for emphasis",
+        "Combines contradictory or opposite terms",
+        "Gives human qualities to objects",
+        "Compares two things using 'like' or 'as'"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Choose the word nearest in meaning to OBSEQUIOUS:",
+      "options": [
+        "Proud and arrogant",
+        "Excessively eager to please or serve",
+        "Honest and direct",
+        "Lazy and indifferent"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Choose the option that best completes: It is high time the government ______ something about the flooding.",
+      "options": [
+        "does",
+        "did",
+        "will do",
+        "has done"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "The term 'register' in English language refers to:",
+      "options": [
+        "A school attendance book",
+        "The variety of language used in a particular social situation or profession",
+        "The tone of voice used in speaking",
+        "The speed at which someone speaks"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Choose the sentence in which 'since' is used as a conjunction of time:",
+      "options": [
+        "Since he is rich, he can afford it.",
+        "He has lived here since 2010.",
+        "I haven't seen her since she left.",
+        "Since you asked, I will explain."
+      ],
+      "correctIndex": 2,
+      "year": 2025
+    },
+    {
+      "question": "The word EQUIVOCAL means:",
+      "options": [
+        "Clear and unambiguous",
+        "Open to more than one interpretation; deliberately vague",
+        "Completely false",
+        "Absolutely certain"
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    },
+    {
+      "question": "Which of the following is an example of euphemism?",
+      "options": [
+        "He kicked the bucket.",
+        "She is as busy as a bee.",
+        "The thunder roared angrily.",
+        "His eyes were stars."
+      ],
+      "correctIndex": 0,
+      "year": 2025
+    },
+    {
+      "question": "Choose the option with the correct use of the semicolon:",
+      "options": [
+        "He came early; but she left late.",
+        "He came early; she left late.",
+        "He; came early, she left late.",
+        "He came early, she; left late."
+      ],
+      "correctIndex": 1,
+      "year": 2025
+    }
+  ]
+}

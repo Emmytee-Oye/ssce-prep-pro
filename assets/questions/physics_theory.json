@@ -1,0 +1,65 @@
+{
+  "subject": "Physics",
+  "questions": [
+    {
+      "question": "A car starts from rest and accelerates uniformly at 4 m/s² for 5 seconds.\n(a) Calculate the final velocity.\n(b) Calculate the distance covered.\n(c) Calculate the average velocity.",
+      "answer": "(a) Using v = u + at\nv = 0 + (4 × 5) = 20 m/s\n\n(b) Using s = ut + ½at²\ns = 0 + ½ × 4 × 5²\ns = 50 m\n\n(c) Average velocity = (u + v)/2 = (0 + 20)/2 = 10 m/s",
+      "year": 2020
+    },
+    {
+      "question": "State Newton's three laws of motion and give one practical example of each.",
+      "answer": "1st Law (Inertia): A body remains at rest or in uniform motion unless acted upon by an external force.\nExample: A passenger lurches forward when a moving bus suddenly stops.\n\n2nd Law (Acceleration): The rate of change of momentum of a body is proportional to the applied force and occurs in the direction of the force. F = ma\nExample: A heavier car requires more force to accelerate at the same rate as a lighter car.\n\n3rd Law (Action-Reaction): For every action, there is an equal and opposite reaction.\nExample: A rocket moves forward as hot gases are expelled backward.",
+      "year": 2020
+    },
+    {
+      "question": "A stone is thrown vertically upward with an initial velocity of 30 m/s. (g = 10 m/s²)\n(a) Find the maximum height reached.\n(b) Find the time to reach maximum height.\n(c) Find the total time of flight.",
+      "answer": "(a) Using v² = u² - 2gs (at max height, v = 0)\n0 = 30² - 2(10)h\n20h = 900\nh = 45 m\n\n(b) Using v = u - gt\n0 = 30 - 10t\nt = 3 seconds\n\n(c) Total time = 2 × time to reach max height\n= 2 × 3 = 6 seconds",
+      "year": 2020
+    },
+    {
+      "question": "Explain Boyle's Law and illustrate with a graph. A gas occupies 500 cm³ at a pressure of 1.5 × 10⁵ Pa. Find its volume when the pressure is increased to 2.5 × 10⁵ Pa at constant temperature.",
+      "answer": "Boyle's Law states that the pressure of a fixed mass of gas is inversely proportional to its volume at constant temperature.\nMathematically: PV = constant, so P₁V₁ = P₂V₂\n\nGraph: A hyperbolic curve — as P increases, V decreases.\n\nSolution:\nP₁V₁ = P₂V₂\n(1.5 × 10⁵) × 500 = (2.5 × 10⁵) × V₂\nV₂ = (1.5 × 10⁵ × 500) / (2.5 × 10⁵)\nV₂ = 300 cm³",
+      "year": 2020
+    },
+    {
+      "question": "A circuit has two resistors of 6Ω and 3Ω connected in parallel across a 12V battery.\n(a) Find the total resistance.\n(b) Find the total current from the battery.\n(c) Find the current through each resistor.",
+      "answer": "(a) 1/R = 1/R₁ + 1/R₂ = 1/6 + 1/3 = 1/6 + 2/6 = 3/6\nR = 2Ω\n\n(b) Total current I = V/R = 12/2 = 6A\n\n(c) Current through 6Ω: I₁ = V/R₁ = 12/6 = 2A\nCurrent through 3Ω: I₂ = V/R₂ = 12/3 = 4A\nCheck: 2 + 4 = 6A ✓",
+      "year": 2020
+    },
+    {
+      "question": "Explain the difference between reflection and refraction of light. A ray of light travels from water (n=1.33) into air (n=1.00) at an angle of incidence of 30°.\n(a) Find the angle of refraction.\n(b) Find the critical angle for the water-air interface.",
+      "answer": "Reflection: The bouncing back of light when it hits a surface. Angle of incidence = Angle of reflection.\n\nRefraction: The bending of light as it passes from one medium to another due to a change in speed.\n\n(a) Using Snell's Law: n₁ sin θ₁ = n₂ sin θ₂\n1.33 × sin 30° = 1.00 × sin θ₂\n1.33 × 0.5 = sin θ₂\nsin θ₂ = 0.665\nθ₂ = 41.7°\n\n(b) At critical angle, θ₂ = 90°\nn₁ sin C = n₂ sin 90°\n1.33 sin C = 1.00\nsin C = 1/1.33 = 0.752\nC = 48.8°",
+      "year": 2021
+    },
+    {
+      "question": "A transformer has 400 turns in the primary coil and 50 turns in the secondary coil. The primary voltage is 240V and the primary current is 0.5A.\n(a) Find the secondary voltage.\n(b) Find the secondary current (assume 100% efficiency).\n(c) State whether it is a step-up or step-down transformer.",
+      "answer": "(a) Vₛ/Vₚ = Nₛ/Nₚ\nVₛ/240 = 50/400\nVₛ = (50/400) × 240 = 30V\n\n(b) For 100% efficiency: VₚIₚ = VₛIₛ\n240 × 0.5 = 30 × Iₛ\nIₛ = 120/30 = 4A\n\n(c) Since the secondary voltage (30V) is less than the primary voltage (240V), this is a STEP-DOWN transformer.",
+      "year": 2021
+    },
+    {
+      "question": "Explain the photoelectric effect. What is the significance of the threshold frequency? If the work function of a metal is 2.5 eV and light of frequency 8×10¹⁴ Hz is incident on it, find the maximum kinetic energy of emitted electrons. (h = 6.63×10⁻³⁴ Js, 1eV = 1.6×10⁻¹⁹ J)",
+      "answer": "Photoelectric Effect: The emission of electrons from a metal surface when light of sufficient frequency falls on it. It shows that light behaves as particles (photons).\n\nThreshold Frequency: The minimum frequency of light that can cause electron emission from a given metal surface. Below this frequency, no electrons are emitted regardless of light intensity.\n\nSolution:\nEnergy of photon E = hf = 6.63×10⁻³⁴ × 8×10¹⁴ = 5.30×10⁻¹⁹ J\nConvert to eV: E = 5.30×10⁻¹⁹ / 1.6×10⁻¹⁹ = 3.31 eV\n\nMax KE = E - Work function\n= 3.31 - 2.5 = 0.81 eV\n= 0.81 × 1.6×10⁻¹⁹ = 1.30×10⁻¹⁹ J",
+      "year": 2022
+    },
+    {
+      "question": "A body of mass 2 kg is moving with velocity 6 m/s. It collides with a stationary body of mass 4 kg and they move together after collision.\n(a) Find the velocity after collision.\n(b) Calculate the kinetic energy before and after collision.\n(c) What type of collision is this?",
+      "answer": "(a) Using conservation of momentum:\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\n2 × 6 + 4 × 0 = (2 + 4) × v\n12 = 6v\nv = 2 m/s\n\n(b) KE before = ½m₁u₁² = ½ × 2 × 6² = 36 J\nKE after = ½(m₁+m₂)v² = ½ × 6 × 2² = 12 J\n\n(c) This is a PERFECTLY INELASTIC collision because the objects stick together and kinetic energy is NOT conserved (36J ≠ 12J). Momentum is conserved but KE is lost as heat/sound.",
+      "year": 2022
+    },
+    {
+      "question": "Describe the structure of the atom according to the nuclear model. A radioactive isotope has a half-life of 8 days. If the initial activity is 1600 counts per minute:\n(a) What is the activity after 24 days?\n(b) How long will it take for the activity to fall to 100 counts per minute?",
+      "answer": "Nuclear Model: The atom consists of a tiny, dense, positively charged nucleus containing protons and neutrons, surrounded by electrons orbiting in shells at relatively large distances from the nucleus. Most of the atom is empty space.\n\n(a) Number of half-lives in 24 days = 24/8 = 3\nActivity = 1600 × (½)³ = 1600/8 = 200 counts/min\n\n(b) 1600 → 800 → 400 → 200 → 100\nNumber of half-lives = 4\nTime = 4 × 8 = 32 days",
+      "year": 2023
+    },
+    {
+      "question": "A ball of mass 0.5 kg is kicked from the ground at an angle of 30° to the horizontal with an initial speed of 20 m/s. (g = 10 m/s²)\n(a) Find the horizontal and vertical components of initial velocity.\n(b) Find the maximum height reached.\n(c) Find the range (horizontal distance).",
+      "answer": "(a) Horizontal: uₓ = u cos 30° = 20 × 0.866 = 17.32 m/s\nVertical: uᵧ = u sin 30° = 20 × 0.5 = 10 m/s\n\n(b) At maximum height, vertical velocity = 0\nv² = uᵧ² - 2gh\n0 = 100 - 20h\nh = 5 m\n\n(c) Time to max height: t = uᵧ/g = 10/10 = 1s\nTotal time of flight = 2 × 1 = 2s\nRange = uₓ × total time = 17.32 × 2 = 34.64 m",
+      "year": 2024
+    },
+    {
+      "question": "Explain the concept of electromagnetic induction. State Faraday's law and Lenz's law. A coil of 200 turns is placed in a magnetic field. The magnetic flux through the coil changes from 0.05 Wb to 0.02 Wb in 0.1 seconds. Calculate the induced EMF.",
+      "answer": "Electromagnetic Induction: The production of an electric current (or EMF) in a conductor when there is a change in magnetic flux linking the conductor.\n\nFaraday's Law: The induced EMF in a circuit is proportional to the rate of change of magnetic flux linkage through the circuit.\nEMF = -N × (ΔΦ/Δt)\n\nLenz's Law: The induced current flows in a direction such that it opposes the change causing it (conservation of energy).\n\nSolution:\nΔΦ = 0.05 - 0.02 = 0.03 Wb\nEMF = N × ΔΦ/Δt = 200 × 0.03/0.1 = 60 V",
+      "year": 2025
+    }
+  ]
+}

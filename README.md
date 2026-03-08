@@ -18,7 +18,7 @@
 
 ---
 
-## 📖 About
+## About
 
 **SSCE Prep Pro** is a fully offline Android mobile application designed to help Senior Secondary School Certificate Examination (SSCE) candidates in Nigeria prepare effectively for their WAEC and NECO examinations.
 
@@ -26,16 +26,16 @@ The app provides **1,080+ past questions** (2020–2025) across **12 subjects** 
 
 ---
 
-## ✨ Features
+## Features
 
-- 📚 **Study Mode** — Browse objective questions by subject and filter by year (2020–2025)
-- 📝 **Theory Mode** — Study detailed model answers for essay/theory questions
-- ⏱️ **Timed Quiz** — 20 random questions with 30-second timer per question
-- 📊 **Progress Tracking** — Track quiz scores and study history
-- 🔀 **Smart Shuffle** — Questions randomised on every session for varied practice
-- 🌐 **Fully Offline** — No internet connection required at any time
-- 🎨 **Clean UI** — Modern, student-friendly interface with department colour coding
-- 📱 **Onboarding** — Guided introduction for first-time users
+-  **Study Mode** — Browse objective questions by subject and filter by year (2020–2025)
+-  **Theory Mode** — Study detailed model answers for essay/theory questions
+-  **Timed Quiz** — 20 random questions with 30-second timer per question
+-  **Progress Tracking** — Track quiz scores and study history
+-  **Smart Shuffle** — Questions randomised on every session for varied practice
+-  **Fully Offline** — No internet connection required at any time
+-  **Clean UI** — Modern, student-friendly interface with department colour coding
+-  **Onboarding** — Guided introduction for first-time users
 
 ---
 
@@ -43,9 +43,9 @@ The app provides **1,080+ past questions** (2020–2025) across **12 subjects** 
 
 | Department | Subjects |
 |---|---|
-| 🔬 **Science** | Mathematics, Physics, Chemistry, Biology |
-| 🎨 **Art** | English Language, Literature, Government, CRS, IRS |
-| 📊 **Commercial** | Economics, Commerce, Accounting |
+|  **Science** | Mathematics, Physics, Chemistry, Biology |
+|  **Art** | English Language, Literature, Government, CRS, IRS |
+|  **Commercial** | Economics, Commerce, Accounting |
 
 ### Question Statistics
 
@@ -67,7 +67,7 @@ The app provides **1,080+ past questions** (2020–2025) across **12 subjects** 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -86,7 +86,7 @@ The app provides **1,080+ past questions** (2020–2025) across **12 subjects** 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lib/
@@ -108,7 +108,7 @@ assets/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Flutter SDK 3.0 or higher
@@ -141,7 +141,7 @@ flutter build apk --release --split-per-abi
 
 ---
 
-## 📲 Download
+##  Download
 
 | Version | APK | Compatible With |
 |---|---|---|
@@ -150,20 +150,9 @@ flutter build apk --release --split-per-abi
 > ⚠️ **Installation Note:** Since this app is not on the Play Store, you may need to enable **"Install from Unknown Sources"** in your phone settings.
 
 ---
-
-## 🎨 Screenshots
-
-| Onboarding | Home | Study Mode |
-|---|---|---|
-| *Coming soon* | *Coming soon* | *Coming soon* |
-
-| Quiz | Results | Progress |
-|---|---|---|
-| *Coming soon* | *Coming soon* | *Coming soon* |
-
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Add questions for 2026 exams
 - [ ] CBT simulation mode (full exam timer)
@@ -175,7 +164,7 @@ flutter build apk --release --split-per-abi
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Oyetayo Emmanuel Temitope**
 📧 oyetayoemmanueltemitope705@gmail.com
@@ -183,7 +172,7 @@ flutter build apk --release --split-per-abi
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - **Flutter Team** — For the amazing framework
 - **Hive** — For lightweight offline storage
@@ -191,7 +180,7 @@ flutter build apk --release --split-per-abi
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
